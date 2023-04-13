@@ -2,43 +2,30 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+A definição do problema e dos pontos a serem tratados neste projeto foram consolidados em um trabalho de imersão feito pelos membros da equipe, a partir da observação de possíveis usuários. Os detalhes levantados foram traduzidos na forma de personas e histórias de usuários. 
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+* Joana Drupe
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+Joana tem 32 anos, é advogada, e se encontrou no trabalho voluntário. Comeceu a exercer voluntariado em um projeto social com moradores de rua, participando das dinâmicas e também auxiliando na equipe de comunicação e redes sociais da ONG. Ela gostaria de conhecer e colaborar também com outras organizações.
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+* Daniel Garcia
+
+Daniel tem 40 anos e é médico veterinário. Defensor da causa animal, fundou uma organização sem fins lucrativos para resgatar animais de rua e em situações de risco. Ele gostaria de encontrar mais pessoas dispostas a atuar nesta causa.
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+A partir da compreensão do cotidiano das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários: 
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Joana (Voluntário)  | Encontrar ONGs que estejam precisando de voluntários            | Poder escolher uma e me alistar como colaboradora               |
+|Joana (Voluntário)      | Criar um perfil que contenha minhas habilidades e minha disponibilidade para voluntariado                  | ONGs que estejam precisando de trabalho como o que faço possam me encontrar |
+|Daniel Garcia (ONG)       | Divulgar o trabalho da minha ONG e as oportunidades de colaboração                   | Encontrar voluntários capacitados e com disponibilidade |
+|Daniel Garcia (ONG)       | Gerenciar os voluntários da minha ONG                   | Marcar turnos de trabalho e ter um canal de comunicação com eles  |
+|Daniel Garcia (ONG)       | Ter a possibilidade de entrar em contato com outras ONGs                   | Fazer parcerias com outras instituições   |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Requisitos
 
@@ -48,44 +35,31 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Possibilitar a pesquisa de novas ONGs | ALTA | 
+|RF-002| Apresentar o perfil das ONGs com informações como causas defendidas, projetos realizados, vagas para voluntariado, endereço e contato   | ALTA |
+|RF-003| Possibilitar a criação de perfil de voluntários com informações como causas defendidas, capacitações, disponibilidade para voluntariado e contato   | ALTA |
+|RF-004| Permitir que o cliente tenha meio de contato direto com as ONGs ou voluntários escolhidos (janela de chat)   | MÉDIA |
+|RF-005| Possuir um filtro para perfil de voluntários a ser utilizado pelas ONGs  | ALTA |
+|RF-006| Possuir um filtro para perfil de ONGs e trabalhos voluntários disponíveis, a ser utilizado pelos voluntários   | ALTA |
+|RF-007| Permitir ao voluntário o compartilhamento de candidaturas de trabalhos voluntários em suas redes sociais   | ALTA |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O sistema deve ser responsivo para rodar em dispositivos móveis | ALTA | 
+|RNF-002| O site deve ser publicado em um ambiente acessível publicamente na internet  |  ALTA | 
+|RNF-003| O site deve ser compatível com os principais navegadores do mercado  |  ALTA | 
+|RNF-004| O site deve ter bom nível de contraste entre os elementos da tela em conformidade  |  MÉDIA |
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
+O projeto está restrito pelos itens apresentados na tabela a seguir:
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+|01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data proposta |
+|02| O aplicativo deve se restringir às tecnologias básicas da Web no Front-end        |
+|03| A equipe não pode subcontratar o desenvolvimento do trabalho        |
