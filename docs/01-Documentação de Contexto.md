@@ -1,46 +1,26 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+As organizações da sociedade civil, também denominadas organizações não governamentais (ONGs), são instituições sem fins lucrativos e com fins públicos, baseadas na participação voluntária. Segundo o último [Mapa das Organizações da Sociedade Civil](https://mapaosc.ipea.gov.br/mapa), realizado pelo Instituto de Pesquisa Econômica Aplicada (IPEA), até 2020 existiam mais de 815 mil ONGs no Brasil, em atuação por diversas causas1. 
+
+Muitas pessoas realizam trabalhos voluntários em busca de tornar o país melhor, seja no presente ou para gerações futuras. [Já existem cerca de 57 milhões de voluntários ativos no país](https://mapaosc.ipea.gov.br/post/131/pesquisa-revela-perfil-dos-voluntarios-no-pais) e certamente mais pessoas gostariam de contribuir para as causas nas quais acreditam, mas não sabem como. Ao mesmo tempo, pequenas instituições sem fins lucrativos podem ter dificuldade em divulgar seu trabalho e captar e gerenciar seus voluntários, seja por falta de tempo, de recursos financeiros ou de pessoas qualificadas para este fim. 
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Este trabalho busca resolver o problema da dificuldade de conexão entre ONGs e pessoas interessadas e capacitadas para contribuir através de trabalho voluntário. 
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Nosso objetivo geral é a criação de um site para conectar organizações não governamentais e pessoas interessadas em realizar trabalho voluntário. Como objetivos específicos, podemos ressaltar: 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+> Possibilitar às ONGs a criação de perfil para a divulgação de suas causas e das oportunidades de contribuição, através de voluntariado ou doações; 
+> Possibilitar aos voluntários o acesso a um catálogo de ONGs e oportunidades de voluntariado, assim como a criação de perfil com seus interesses e capacitação; 
+> Fornecer meios para ajudar as organizações no gerenciamento de voluntários, funcionando como canal de comunicação e também como sistema para agendamento de turnos de trabalho; 
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Muitas organizações sem fins lucrativos enfrentam desafios em captar e gerenciar voluntários devido à falta de recursos e tecnologia. A criação de canais de divulgação do trabalho para encontrar pessoas interessadas em contribuir, além do gerenciamento dos voluntários, pode ser custosa financeiramente e também tecnicamente. 
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Do lado dos voluntários, podemos citar a falta de conhecimento sobre o trabalho de organizações e a dificuldade em encontrar oportunidades de voluntariado. Muitas pessoas possuem interesse em contribuir, mas não sabem por onde começar. As informações costumam ser descentralizadas, tornando difícil a pesquisa de oportunidades para contribuir. Nossa aplicação visa facilitar esta conexão.   
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+O objetivo dessa aplicação é facilitar a conexão entre as ONGs e os voluntários, para que em conjunto possam realizar diversos trabalhos em prol da sociedade. O público-alvo é composto pelos recrutadores de voluntários por parte das ONGs, como também pelos voluntários homens e mulheres em todas as faixas etárias, que desejam exercer o papel de voluntário, usando seus talentos e habilidades para o bem da sociedade.  
