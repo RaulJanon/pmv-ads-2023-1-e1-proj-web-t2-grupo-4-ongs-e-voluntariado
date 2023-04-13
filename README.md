@@ -1,23 +1,25 @@
-# TÍTULO DO PROJETO
+# PROJETO DE APLICAÇÃO WEB: ONGs e Voluntariado
 
-`CURSO`
+`ANÁLISE E DESENVOLVIMENTO DE SISTEMAS | PUC MINAS`
 
-`DISCIPLINA`
+`PROJETO: DESENVOLVIMENTO DE APLICAÇÃO WEB FRONT-END`
 
-`SEMESTRE`
+`TURMA 2 | EIXO 1 | 2O23.1`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Este trabalho busca resolver o problema da dificuldade de conexão entre ONGs e pessoas interessadas e capacitadas para contribuir através de trabalho voluntário, através de uma aplicação web.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Ademir Colares dos Santos Junior
+* Ana Beatriz Leite de Souza 
+* Raul Janon Teixeira Leite 
+* Jefferson Freitas da Silva 
+* Thiago Jesus Dias 
+* Leandro Pereira de Jesus 
 
 ## Orientador
 
-* Nome completo do professor 1
+* Joyce Christina de Paiva Carvalho
 
 ## Instruções de utilização
 
