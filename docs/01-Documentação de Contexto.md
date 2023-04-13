@@ -11,9 +11,9 @@ Este trabalho busca resolver o problema da dificuldade de conexão entre ONGs e 
 
 Nosso objetivo geral é a criação de um site para conectar organizações não governamentais e pessoas interessadas em realizar trabalho voluntário. Como objetivos específicos, podemos ressaltar: 
 
-> Possibilitar às ONGs a criação de perfil para a divulgação de suas causas e das oportunidades de contribuição, através de voluntariado ou doações; 
-> Possibilitar aos voluntários o acesso a um catálogo de ONGs e oportunidades de voluntariado, assim como a criação de perfil com seus interesses e capacitação; 
-> Fornecer meios para ajudar as organizações no gerenciamento de voluntários, funcionando como canal de comunicação e também como sistema para agendamento de turnos de trabalho; 
+* Possibilitar às ONGs a criação de perfil para a divulgação de suas causas e das oportunidades de contribuição, através de voluntariado ou doações; 
+* Possibilitar aos voluntários o acesso a um catálogo de ONGs e oportunidades de voluntariado, assim como a criação de perfil com seus interesses e capacitação; 
+* Fornecer meios para ajudar as organizações no gerenciamento de voluntários, funcionando como canal de comunicação e também como sistema para agendamento de turnos de trabalho; 
 
 ## Justificativa
 
