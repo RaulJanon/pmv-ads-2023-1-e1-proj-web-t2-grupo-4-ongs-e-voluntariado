@@ -11,11 +11,12 @@ Este trabalho busca resolver o problema da dificuldade de conexão entre ONGs e 
 ## Integrantes
 
 * Ademir Colares dos Santos Junior
-* Ana Beatriz Leite de Souza 
-* Raul Janon Teixeira Leite 
-* Jefferson Freitas da Silva 
-* Thiago Jesus Dias 
-* Leandro Pereira de Jesus 
+* Ana Beatriz Leite de Souza
+* Jefferson Freitas da Silva
+* Leandro Pereira de Jesus
+* Raul Janon Teixeira Leite
+* Thiago Jesus Dias
+ 
 
 ## Orientador
 
