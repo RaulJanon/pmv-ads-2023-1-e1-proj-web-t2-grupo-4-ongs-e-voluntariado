@@ -51,6 +51,23 @@ A Home Page, é a página que conterá toda a apresentação inicial do sistema 
  
 </div>
 
+## ONG Profile
+
+<div align="center">
+            
+![image](https://user-images.githubusercontent.com/19398297/233741530-109c3ad7-4775-413c-87f6-8cb3460abb6b.png)
+            
+</div>
+           
+## Feed
+
+<div align="center">
+ 
+ ![image](https://user-images.githubusercontent.com/19398297/233741687-aac33271-cdd0-44a8-b7dc-3d53a1017308.png)
+
+ 
+</div>
+            
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
  
 > **Links Úteis**:
