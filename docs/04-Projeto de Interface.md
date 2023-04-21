@@ -32,7 +32,7 @@ Já o fluxo de interação do usuário inclui a busca por voluntários, assim co
 ## Home 
 
 <div align="center">
-     ![image](https://user-images.githubusercontent.com/19398297/233739767-2c79f270-5e3e-46b1-8cd9-9abf915781e2.png)
+![image](https://user-images.githubusercontent.com/19398297/233739767-2c79f270-5e3e-46b1-8cd9-9abf915781e2.png)
 </div>     
 
 
