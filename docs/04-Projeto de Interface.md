@@ -38,7 +38,7 @@ Já o fluxo de interação do usuário inclui a busca por voluntários, assim co
 </div> 
 <div align="justify">
  
-A Home Page, é a página que conterá toda a apresentação inicial do sistema para os usuários, tanto voluntários, quanto ONGs. O objetivo é que seja suscinta e simples de modo que o usuário consiga fácilmente entender do que se trata o site e se cadastrar utilizando, inicialmente, apenas um email e senha.
+A Home Page, é a página que conterá toda a apresentação inicial do sistema para os usuários, tanto voluntários, quanto ONGs. O objetivo é que seja suscinta e simples de modo que o usuário consiga facilmente entender do que se trata o site e se cadastrar utilizando, inicialmente, apenas um email e senha.
  
 </div>
 
