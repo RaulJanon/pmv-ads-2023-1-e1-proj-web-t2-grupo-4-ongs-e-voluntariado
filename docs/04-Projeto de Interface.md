@@ -36,9 +36,18 @@ Já o fluxo de interação do usuário inclui a busca por voluntários, assim co
 ![image](https://user-images.githubusercontent.com/19398297/233739767-2c79f270-5e3e-46b1-8cd9-9abf915781e2.png)
  
 </div> 
+
 <div align="justify">
  
 A Home Page, é a página que conterá toda a apresentação inicial do sistema para os usuários, tanto voluntários, quanto ONGs. O objetivo é que seja suscinta e simples de modo que o usuário consiga facilmente entender do que se trata o site e se cadastrar utilizando, inicialmente, apenas um email e senha.
+ 
+</div>
+
+## User Profile
+
+<div align="center"> 
+ 
+![image](https://user-images.githubusercontent.com/19398297/233741061-6100e483-cbad-483d-94be-a8220641dbc5.png)
  
 </div>
 
