@@ -3,20 +3,20 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+Nessa seção apresentamos as ferramentas utilizadas para a produção e gestão do projeto.
 
 ## Controle de Versão
 
-A ferramenta de controle de versão adotada no projeto foi o
-[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-foi utilizado para hospedagem do repositório.
+Na tabela a seguir temos a relação dos ambientes de trabalho com suas respectivas plataformas e links de acesso. Cada ambiente foi pensado com o objetivo de melhorar a qualidade da produtividade dos desenvolvedores.
 
-O projeto segue a seguinte convenção para o nome de branches:
+|**Ambiente**|**Plataforma**|**Link de acesso**|
+|:---:|:---:|:---:|
+|Repositório de código fonte|GitHub|[Github](https://github.com/)|
+|Documentos do projeto|GitHub|[Github](https://github.com/)|
+|Projeto de Interface e Wireframes |Figman |[Figman](https://www.figma.com/file/A3Dj8AcW4lB0oU7vLSJ7K0/Ongs-Wireframes?node-id=0-1&t=2Z6pRI3oNIYHJP6a-0)|
+|Gerenciamento do Projeto |GitHub|[Github](https://github.com/) |
 
-- `main`: versão estável já testada do software
-- `unstable`: versão já testada do software, porém instável
-- `testing`: versão em testes do software
-- `dev`: versão de desenvolvimento do software
+* Continuar editando à partir daqui...
 
 Quanto à gerência de issues, o projeto adota a seguinte convenção para
 etiquetas:
