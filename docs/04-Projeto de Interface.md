@@ -67,6 +67,15 @@ A Home Page, é a página que conterá toda a apresentação inicial do sistema 
 
  
 </div>
+
+## Jobs List
+
+<div align="center">
+ 
+![image](https://user-images.githubusercontent.com/19398297/233741837-3569ca44-c0d6-49d2-971d-1cbb40d8c190.png)
+
+
+</div>
             
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
  
