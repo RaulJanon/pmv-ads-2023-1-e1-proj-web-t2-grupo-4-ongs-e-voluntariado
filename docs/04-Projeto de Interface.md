@@ -61,7 +61,7 @@ A Home Page, é a página que conterá toda a apresentação inicial do sistema 
 
 <div align="center"> 
 
-![VolunteerProfile](https://user-images.githubusercontent.com/19398297/233783141-c45d467b-6476-4e67-8dcb-fe04eec07c70.png)
+![VolunteerProfile](https://user-images.githubusercontent.com/19398297/233784148-42bb820f-d88f-47a4-a082-1370bfd956ea.png)
  
 </div>
 
@@ -71,7 +71,7 @@ A Home Page, é a página que conterá toda a apresentação inicial do sistema 
 
 <div align="center">
 
- ![OngProfile](https://user-images.githubusercontent.com/19398297/233782770-ea236036-83c6-423e-9590-04f220765e3e.png)
+ ![OngProfile](https://user-images.githubusercontent.com/19398297/233784165-f47df5e8-5d51-4b7f-b8d7-64443a982ea5.png)
 
             
 </div>
