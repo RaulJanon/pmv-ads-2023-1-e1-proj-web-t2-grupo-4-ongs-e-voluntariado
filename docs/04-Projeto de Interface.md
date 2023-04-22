@@ -72,7 +72,7 @@ A Home Page, é a página que conterá toda a apresentação inicial do sistema 
 
 
 
-## Perfil de Voluntário
+>**Perfil de Voluntário**
 
 <div align="center"> 
 
@@ -88,7 +88,7 @@ A página Perfil de Voluntário, é onde todos os posts de divulgação das aç�
 
 
 
-## Perfil de ONG
+>**Perfil de ONG**
 
 <div align="center">
 
@@ -104,7 +104,7 @@ A página de Perfil de ONG será onde todas as ações das ONGs poderão ser pos
 
 
            
-## Feed
+>**Feed**
 
 <div align="center">
  
@@ -119,7 +119,7 @@ A página Feed, é onde todos os post, tanto de voluntários, quanto de ONGs, po
 </div>
 
 
-## CRUD Para Anúncios de Vagas
+>**CRUD Para Anúncios de Vagas**
 
 <div align="center">
 
@@ -134,7 +134,7 @@ A página CRUD para anúncios de vagas é a página que possibilitará para as O
 </div>
 
 
-## Lista de Vagas
+>**Lista de Vagas**
 
 <div align="center">
  
@@ -148,7 +148,7 @@ Após o cadastro das vagas de voluntariado disponíveis, as mesmas ficarão disp
  
 </div>
 
-## Formulário Detalhado Para ONGs
+>**Formulário Detalhado Para ONGs**
 
 <div align="center">
  
@@ -164,7 +164,7 @@ O formulário detalhado para as ONGs é a página responsável pelo cadastro das
 
 
 
-## Formulário Detalhado Para Voluntários
+>**Formulário Detalhado Para Voluntários**
 
 <div align="center">
  
@@ -180,7 +180,7 @@ Do mesmo modo, o formulário detalhado para voluntários é a página onde o vol
 
 
 
-## Dashboard Para ONGs
+>**Dashboard Para ONGs**
 
 <div align="center">
  
@@ -196,7 +196,7 @@ O Dashboard para ONGs é a página que fornecerá os dados de gestão de equipes
 
 
 
-## Dashboard para Voluntários
+>**Dashboard para Voluntários**
 
 <div align="center">
  
@@ -212,7 +212,7 @@ O Dashboard para voluntários é a página onde constarão as atividades demanda
 
 
 
-## Currículo de Voluntários
+>**Currículo de Voluntários**
 
 <div align="center">
  
@@ -226,7 +226,7 @@ O Dashboard para voluntários é a página onde constarão as atividades demanda
  
 </div>
 
-## Lista de Amigo/Chat
+>**Lista de Amigo/Chat**
 
 <div align="center">
  
