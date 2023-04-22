@@ -2,10 +2,15 @@
 # Projeto de Interface
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+
 <div align="justify">
+ 
 A interface da aplicação foi projetada a partir das histórias de usuários, de forma a atender os requisitos funcionais e não funcionais abordados na <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
+ 
 </div>
+
 ## User Flow
+
 <div align="justify">
  
 A plataforma possui dois tipos centrais de usuário: os voluntários e as ONGs. Da mesma forma, o fluxo de interação é dividido no uso específico de cada uma das personas. As telas serão detalhadas a seguir, na seção de Wireframes.
