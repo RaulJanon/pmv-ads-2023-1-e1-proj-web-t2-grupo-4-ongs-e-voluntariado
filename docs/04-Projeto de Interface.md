@@ -38,6 +38,8 @@ Já o fluxo de interação do usuário inclui a busca por voluntários, assim co
 
 </div>
 
+
+
 ## Home 
 
 <div align="center"> 
@@ -53,6 +55,8 @@ A Home Page, é a página que conterá toda a apresentação inicial do sistema 
  
 </div>
 
+
+
 ## Perfil de Voluntário
 
 <div align="center"> 
@@ -60,6 +64,8 @@ A Home Page, é a página que conterá toda a apresentação inicial do sistema 
 ![VolunteerProfile](https://user-images.githubusercontent.com/19398297/233783141-c45d467b-6476-4e67-8dcb-fe04eec07c70.png)
  
 </div>
+
+
 
 ## Perfil de ONG
 
@@ -69,6 +75,8 @@ A Home Page, é a página que conterá toda a apresentação inicial do sistema 
 
             
 </div>
+
+
            
 ## Feed
 
@@ -77,6 +85,8 @@ A Home Page, é a página que conterá toda a apresentação inicial do sistema 
 ![Feed](https://user-images.githubusercontent.com/19398297/233782775-ab63453f-5b2b-4ac2-86db-fb191f48d0c0.png)
 
 </div>
+
+
 
 ## CRUD Para Anúncios de Vagas
 
@@ -87,6 +97,8 @@ A Home Page, é a página que conterá toda a apresentação inicial do sistema 
 
 </div>
 
+
+
 ## Lista de Vagas
 
 <div align="center">
@@ -94,6 +106,8 @@ A Home Page, é a página que conterá toda a apresentação inicial do sistema 
 ![JobsList](https://user-images.githubusercontent.com/19398297/233782537-4d56aaeb-27a9-454d-9c73-f62d8dad880e.png)
 
 </div>
+
+
 
 ## Formulário Detalhado Para ONGs
 
@@ -104,6 +118,8 @@ A Home Page, é a página que conterá toda a apresentação inicial do sistema 
  
 </div>
 
+
+
 ## Fomulário Detalhado Para Voluntários
 
 <div align="center">
@@ -113,14 +129,18 @@ A Home Page, é a página que conterá toda a apresentação inicial do sistema 
  
 </div>
 
+
+
 ## Dashboard Para ONGs
 
 <div align="center">
  
- ![DashbooardONGs](https://user-images.githubusercontent.com/19398297/233783337-0ffadc86-1582-4773-8a6a-60b4e5708e57.png)
+ ![DashbooardONGs](https://user-images.githubusercontent.com/19398297/233783613-a4f203d8-4675-407d-ad5f-c53b7b1aa5d3.png)
 
  
 </div>
+
+
 
 ## Dashboard para Voluntários
 
@@ -130,6 +150,8 @@ A Home Page, é a página que conterá toda a apresentação inicial do sistema 
 
  
 </div>
+
+
 
 
 ## Currículo de Voluntários
