@@ -11,12 +11,10 @@ Na tabela a seguir temos a relação dos ambientes de trabalho com suas respecti
 
 |**Ambiente**|**Plataforma**|**Link de acesso**|
 |:---:|:---:|:---:|
-|Repositório de código fonte|GitHub|[Github](https://github.com/)|
-|Documentos do projeto|GitHub|[Github](https://github.com/)|
+|Repositório de código fonte|GitHub|[Github](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t2-grupo-4-ongs-e-voluntariado)|
+|Documentos do projeto|GitHub|[Github](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t2-grupo-4-ongs-e-voluntariado/tree/main/docs)|
 |Projeto de Interface e Wireframes |Figman |[Figman](https://www.figma.com/file/A3Dj8AcW4lB0oU7vLSJ7K0/Ongs-Wireframes?node-id=0-1&t=2Z6pRI3oNIYHJP6a-0)|
-|Gerenciamento do Projeto |GitHub|[Github](https://github.com/) |
-
-* Continuar editando à partir daqui...
+|Gerenciamento do Projeto |GitHub|[Github](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/400) |
 
 Quanto à gerência de issues, o projeto adota a seguinte convenção para
 etiquetas:
