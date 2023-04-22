@@ -75,6 +75,7 @@ A página Login, é a página na qual o usuário precisará autenticar através 
 </div>
 
 
+
 >**Home** 
 
 <div align="center"> 
@@ -89,6 +90,7 @@ A página Login, é a página na qual o usuário precisará autenticar através 
 A Home Page, é a página que conterá toda a apresentação inicial do sistema para os usuários, tanto voluntários, quanto ONGs. O objetivo é que seja suscinta e simples, de modo que, o usuário consiga facilmente entender do que se trata o site e se cadastrar utilizando, inicialmente, apenas um email e senha.
  
 </div>
+
 
 
 
@@ -108,6 +110,7 @@ A página Perfil de Voluntário, é onde todos os posts de divulgação das aç�
 
 
 
+
 >**Perfil de ONG**
 
 <div align="center">
@@ -121,6 +124,7 @@ A página Perfil de Voluntário, é onde todos os posts de divulgação das aç�
 A página de Perfil de ONG será onde todas as ações das ONGs poderão ser postadas de modo a divulgar suas atuações em suas respectivas áreas. Também, é onde poderá se encontrar as informações sobre a ONG. O perfil da ONG será sua principal ferramenta de divulgação.
  
 </div>
+
 
 
            
@@ -139,6 +143,7 @@ A página Feed, é onde todos os post, tanto de voluntários, quanto de ONGs, po
 </div>
 
 
+
 >**CRUD Para Anúncios de Vagas**
 
 <div align="center">
@@ -154,6 +159,7 @@ A página CRUD para anúncios de vagas é a página que possibilitará para as O
 </div>
 
 
+
 >**Lista de Vagas**
 
 <div align="center">
@@ -167,6 +173,8 @@ A página CRUD para anúncios de vagas é a página que possibilitará para as O
 Após o cadastro das vagas de voluntariado disponíveis, as mesmas ficarão dispostas em uma página dedicada a ser uma lista de vagas. Nesta página deverá ser possível, para os voluntários, pesquisar e filtrar os tipos de vagas que mais se adequem às sua habilidades e disponibilidades.
  
 </div>
+
+
 
 >**Formulário Detalhado Para ONGs**
 
@@ -245,6 +253,8 @@ O Dashboard para voluntários é a página onde constarão as atividades demanda
 É a página que detalha as qualificações e aptidões dos voluntários, assim também como suas experiências de modo a deixar claro suas informações para que sejam pesquisadas por ONGs que estejam selecionando mão de obra.
  
 </div>
+
+
 
 >**Lista de Amigo/Chat**
 
