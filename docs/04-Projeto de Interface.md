@@ -265,7 +265,6 @@ O Dashboard para voluntários é a página onde constarão as atividades demanda
 </div>
 
 <div align="justify">
- 
 A lista de amigos e o chat compõem uma página onde, tanto o voluntários, quanto ONGs podem interagir entre si através de chat de conversa.
  
 </div>
