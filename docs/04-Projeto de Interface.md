@@ -57,7 +57,7 @@ A página Login, é a página na qual o usuário precisará autenticar através 
 
 <div align="justify">
  
-A Home Page, é a página que conterá toda a apresentação inicial do sistema para os usuários, tanto voluntários, quanto ONGs. O objetivo é que seja suscinta e simples de modo que o usuário consiga facilmente entender do que se trata o site e se cadastrar utilizando, inicialmente, apenas um email e senha.
+A Home Page, é a página que conterá toda a apresentação inicial do sistema para os usuários, tanto voluntários, quanto ONGs. O objetivo é que seja suscinta e simples, de modo que, o usuário consiga facilmente entender do que se trata o site e se cadastrar utilizando, inicialmente, apenas um email e senha.
  
 </div>
 
@@ -73,7 +73,7 @@ A Home Page, é a página que conterá toda a apresentação inicial do sistema 
 
 <div align="justify">
  
-A página Perfil de Voluntário, é onde todos os posts de divulgação das ações do voluntário poderão ser postados, é onde também haverão algumas informações como a Bio do voluntário e será atrelada ao seu Curriculo.
+A página Perfil de Voluntário, é onde todos os posts de divulgação das ações do voluntário poderão ser postados, é onde também haverão algumas informações como, por exemplo, a Bio do voluntário e será atrelada ao seu Curriculo.
  
 </div>
 
@@ -90,7 +90,7 @@ A página Perfil de Voluntário, é onde todos os posts de divulgação das aç�
 
 <div align="justify">
  
-A página de Perfil de ONG será onde todas as ações das ONGs poderão ser postadas de modo a divulgar suas atuações em suas respectivas áreas. Também é onde poderá se encontrar as informações sobre a ONG. O perfil da ONG será sua principal ferramenta de divulgação.
+A página de Perfil de ONG será onde todas as ações das ONGs poderão ser postadas de modo a divulgar suas atuações em suas respectivas áreas. Também, é onde poderá se encontrar as informações sobre a ONG. O perfil da ONG será sua principal ferramenta de divulgação.
  
 </div>
 
@@ -120,6 +120,11 @@ A página Feed, é onde todos os post, tanto de voluntários, quanto de ONGs, po
 
 </div>
 
+<div align="justify">
+ 
+A página CRUD para anúncios de vagas é a página que possibilitará para as ONGs a criação e a edição de seus anúncios de vagas.É a página onde serão cadastradas as vagas de voluntariado disponíveis.
+ 
+</div>
 
 
 ## Lista de Vagas
@@ -130,7 +135,11 @@ A página Feed, é onde todos os post, tanto de voluntários, quanto de ONGs, po
 
 </div>
 
-
+<div align="justify">
+ 
+Após o cadastro das vagas de voluntariado disponíveis, as mesmas ficarão dispostas em uma página dedicada a ser uma lista de vagas. Nesta página deverá ser possível, para os voluntários, pesquisar e filtrar os tipos de vagas que mais se adequem às sua habilidades e disponibilidades.
+ 
+</div>
 
 ## Formulário Detalhado Para ONGs
 
@@ -141,14 +150,26 @@ A página Feed, é onde todos os post, tanto de voluntários, quanto de ONGs, po
  
 </div>
 
+<div align="justify">
+ 
+O formulário detalhado para as ONGs é a página responsável pelo cadastro das informações específicas de cada ONG. Por exemplo, suas missões e áreas de atuação. Deverá, principalmente, capturar todas as informações necessárias para que as ONGs consigam descrever do que se tratam seus serviços prestados a sociedade.
+ 
+</div>
 
 
-## Fomulário Detalhado Para Voluntários
+
+## Formulário Detalhado Para Voluntários
 
 <div align="center">
  
  ![DetailForm Voluntarios](https://user-images.githubusercontent.com/19398297/233783334-07e34ce4-e58a-4a7b-949b-648c3d70994d.png)
 
+ 
+</div>
+
+<div align="justify">
+ 
+Do mesmo modo, o formulário detalhado para voluntários é a página onde o voluntário irá fornecer informações detalhadas sobre suas experiências e qualificações. O objetivo é gerar um currículo resumido que possa, depois, ser facilmente pesquisado e analisado pelas ONGs que estejam em busca de mão de obra.
  
 </div>
 
@@ -163,6 +184,12 @@ A página Feed, é onde todos os post, tanto de voluntários, quanto de ONGs, po
  
 </div>
 
+<div align="justify">
+ 
+O Dashboard para ONGs é a página que fornecerá os dados de gestão de equipes e mão de obra para as ONGs.
+ 
+</div>
+
 
 
 ## Dashboard para Voluntários
@@ -171,6 +198,12 @@ A página Feed, é onde todos os post, tanto de voluntários, quanto de ONGs, po
  
 ![DashbooardVoluntarios](https://user-images.githubusercontent.com/19398297/233784591-0df3334c-a813-4457-b877-8c7ba716d8ca.png)
 
+ 
+</div>
+
+<div align="justify">
+ 
+O Dashboard para voluntários é a página onde constarão as atividades demandadas pelas ONGs aos seus voluntários. É onde o voluntário encontrará um sistema de gestão de suas tarefas para as vagas de voluntariado as quais aplicou.
  
 </div>
 
@@ -186,12 +219,24 @@ A página Feed, é onde todos os post, tanto de voluntários, quanto de ONGs, po
  
 </div>
 
+<div align="justify">
+ 
+É a página que detalha as qualificações e aptidões dos voluntários, assim também como suas experiências de modo a deixar claro suas informações para que sejam pesquisadas por ONGs que estejam selecionando mão de obra.
+ 
+</div>
+
 ## Lista de Amigo/Chat
 
 <div align="center">
  
 ![chat](https://user-images.githubusercontent.com/19398297/233784972-2cae57e9-6f2b-4bce-a489-cc66310c8151.png)
 
+ 
+</div>
+
+<div align="justify">
+ 
+A lista de amigos e o chat compõem uma página onde, tanto o voluntário quanto as ONGs podem interagir entre si através de chat de conversa.
  
 </div>
         
