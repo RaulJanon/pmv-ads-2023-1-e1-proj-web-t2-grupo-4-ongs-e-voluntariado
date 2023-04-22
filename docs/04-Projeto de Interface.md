@@ -57,9 +57,7 @@ A Home Page, é a página que conterá toda a apresentação inicial do sistema 
 
 <div align="center"> 
 
-![VolunteerProfile](https://user-images.githubusercontent.com/19398297/233782721-ba684e69-125c-4257-96e9-4a819b4305e2.png)
-
-
+![VolunteerProfile](https://user-images.githubusercontent.com/19398297/233783141-c45d467b-6476-4e67-8dcb-fe04eec07c70.png)
  
 </div>
 
