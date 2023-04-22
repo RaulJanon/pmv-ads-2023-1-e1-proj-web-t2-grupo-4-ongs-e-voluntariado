@@ -146,7 +146,7 @@ A Home Page, é a página que conterá toda a apresentação inicial do sistema 
 
 <div align="center">
  
- ![DashbooardVoluntarios](https://user-images.githubusercontent.com/19398297/233783346-a7525a94-70a1-44e5-b9ea-84cc64d7d45a.png)
+![DashbooardVoluntarios](https://user-images.githubusercontent.com/19398297/233783840-596d0abe-eff3-488d-a007-d9d56a1d0ca2.png)
 
  
 </div>
@@ -163,6 +163,15 @@ A Home Page, é a página que conterá toda a apresentação inicial do sistema 
  
 </div>
 
+## Lista de Amigo/Chat
+
+<div align="center">
+ 
+![chat](https://user-images.githubusercontent.com/19398297/233783905-1f7c810c-0a95-409f-8cad-f11c9fe11af5.png)
+
+ 
+</div>
+        
             
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
  
