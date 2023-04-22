@@ -135,7 +135,7 @@ A Home Page, é a página que conterá toda a apresentação inicial do sistema 
 
 <div align="center">
  
-![DashbooardONGs](https://user-images.githubusercontent.com/19398297/233783715-9f6a2020-4c3c-4355-8ec2-bdb1a582cd24.png)
+![DashbooardONGs](https://user-images.githubusercontent.com/19398297/233784588-7508cd8d-d971-4a69-8e71-11211395873c.png)
 
  
 </div>
@@ -146,7 +146,7 @@ A Home Page, é a página que conterá toda a apresentação inicial do sistema 
 
 <div align="center">
  
-![DashbooardVoluntarios](https://user-images.githubusercontent.com/19398297/233783840-596d0abe-eff3-488d-a007-d9d56a1d0ca2.png)
+![DashbooardVoluntarios](https://user-images.githubusercontent.com/19398297/233784591-0df3334c-a813-4457-b877-8c7ba716d8ca.png)
 
  
 </div>
