@@ -37,8 +37,12 @@ O primeiro fluxo desenhado é também o primeiro fluxo executado no uso da aplic
  
 </div>
 
+<div align="justify">
+ 
 O fluxo de interação do usuário voluntário inclui a busca por vagas de voluntariado, a busca por ONGs e um dashboard de gerenciamento de suas atividades.
 
+ </div>
+ 
 > **USO PADRÃO ONG**
  
 <div align="center">
@@ -47,7 +51,11 @@ O fluxo de interação do usuário voluntário inclui a busca por vagas de volun
  
  </div>
 
+<div align="justify">
+ 
 Já o fluxo de interação do usuário inclui a busca por voluntários, assim como uma página de currículo (CV - curriculum vitae) para os voluntários, um dashboard de gerenciamento de atividades e voluntários e uma página de criação de anúncios de vagas de voluntariado.
+ 
+ </div>
 
 ## Wireframes
 
