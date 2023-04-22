@@ -54,7 +54,7 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 Aqui é onde armazenamos nossas tarefas baseados no Scrum.
 
-![Backlog](../docs/img/backlog-ong.png)
+![Backlog](../docs/img/backlog-ong.PNG)
  
 <!-- > **Links Úteis**:
 > - [Project management, made simple](https://github.com/features/project-management/)
