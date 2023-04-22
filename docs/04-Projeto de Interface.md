@@ -44,18 +44,21 @@ A Home Page, é a página que conterá toda a apresentação inicial do sistema 
  
 </div>
 
-## User Profile
+## Perfil de Voluntário
 
 <div align="center"> 
+
+ ![image](https://user-images.githubusercontent.com/19398297/233782362-d75e31e8-90f0-4a29-9fc4-eb7c99f0222f.png)
 
  
 </div>
 
-## ONG Profile
+## Perfil de ONG
 
 <div align="center">
 
- 
+ ![image](https://user-images.githubusercontent.com/19398297/233782470-af504cf8-c2fc-4b9d-a5cf-15a150b177ce.png)
+
             
 </div>
            
@@ -63,17 +66,15 @@ A Home Page, é a página que conterá toda a apresentação inicial do sistema 
 
 <div align="center">
  
- ![image](https://user-images.githubusercontent.com/19398297/233741687-aac33271-cdd0-44a8-b7dc-3d53a1017308.png)
+![Feed](https://user-images.githubusercontent.com/19398297/233782531-c117f388-84a0-4433-9e77-20ea5549b032.png)
 
- 
 </div>
 
 ## Jobs List
 
 <div align="center">
  
-![image](https://user-images.githubusercontent.com/19398297/233741837-3569ca44-c0d6-49d2-971d-1cbb40d8c190.png)
-
+![JobsList](https://user-images.githubusercontent.com/19398297/233782537-4d56aaeb-27a9-454d-9c73-f62d8dad880e.png)
 
 </div>
             
