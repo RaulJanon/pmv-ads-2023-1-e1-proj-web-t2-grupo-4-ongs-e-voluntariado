@@ -37,6 +37,12 @@ Já o fluxo de interação do usuário inclui a busca por voluntários, assim co
  
 
 </div>
+<div align="justify">
+ 
+A página Login, é a página na qual o usuário precisará autenticar através de senha o seu acesso à plataforma. Deverá ser uma página simples, de modo que não haja qualquer dubiedade quanto aos locais de inserção de email e senha.
+ 
+</div>
+
 
 
 
@@ -65,6 +71,12 @@ A Home Page, é a página que conterá toda a apresentação inicial do sistema 
  
 </div>
 
+<div align="justify">
+ 
+A página Perfil de Voluntário, é onde todos os posts de divulgação das ações do voluntário poderão ser postados, é onde também haverão algumas informações como a Bio do voluntário e será atrelada ao seu Curriculo.
+ 
+</div>
+
 
 
 ## Perfil de ONG
@@ -74,6 +86,12 @@ A Home Page, é a página que conterá toda a apresentação inicial do sistema 
 ![OngProfile](https://user-images.githubusercontent.com/19398297/233784303-bf8aca8e-b4e3-4029-be78-a479a6f5230f.png)
 
             
+</div>
+
+<div align="justify">
+ 
+A página de Perfil de ONG será onde todas as ações das ONGs poderão ser postadas de modo a divulgar suas atuações em suas respectivas áreas. Também é onde poderá se encontrar as informações sobre a ONG. O perfil da ONG será sua principal ferramenta de divulgação.
+ 
 </div>
 
 
@@ -86,6 +104,11 @@ A Home Page, é a página que conterá toda a apresentação inicial do sistema 
 
 </div>
 
+<div align="justify">
+ 
+A página Feed, é onde todos os post, tanto de voluntários, quanto de ONGs, podem ser visualizados em um feed de rolagem vertical. O Feed será, juntamente com o perfil uma importante ferramenta de divulgação de ações. Deverá possibilitar comentários, curtidas e compartilhamentos.
+ 
+</div>
 
 
 ## CRUD Para Anúncios de Vagas
