@@ -167,7 +167,7 @@ A Home Page, é a página que conterá toda a apresentação inicial do sistema 
 
 <div align="center">
  
-![chat](https://user-images.githubusercontent.com/19398297/233783905-1f7c810c-0a95-409f-8cad-f11c9fe11af5.png)
+![chat](https://user-images.githubusercontent.com/19398297/233784972-2cae57e9-6f2b-4bce-a489-cc66310c8151.png)
 
  
 </div>
