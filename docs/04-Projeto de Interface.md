@@ -29,11 +29,20 @@ Já o fluxo de interação do usuário inclui a busca por voluntários, assim co
 
 ## Wireframes
 
+## Login
+
+<div align="center">
+
+![Login](https://user-images.githubusercontent.com/19398297/233782905-56122e03-21c7-4447-91b1-78fe3bea832f.png)
+ 
+
+</div>
+
 ## Home 
 
 <div align="center"> 
- 
-![image](https://user-images.githubusercontent.com/19398297/233782291-119482c8-9c72-417d-9d09-76c95c7bfd77.png)
+
+![HomePage](https://user-images.githubusercontent.com/19398297/233782698-420826b0-7c0f-425f-a395-97b4b4a31034.png)
 
  
 </div> 
@@ -48,7 +57,8 @@ A Home Page, é a página que conterá toda a apresentação inicial do sistema 
 
 <div align="center"> 
 
- ![image](https://user-images.githubusercontent.com/19398297/233782362-d75e31e8-90f0-4a29-9fc4-eb7c99f0222f.png)
+![VolunteerProfile](https://user-images.githubusercontent.com/19398297/233782721-ba684e69-125c-4257-96e9-4a819b4305e2.png)
+
 
  
 </div>
@@ -57,7 +67,7 @@ A Home Page, é a página que conterá toda a apresentação inicial do sistema 
 
 <div align="center">
 
- ![image](https://user-images.githubusercontent.com/19398297/233782470-af504cf8-c2fc-4b9d-a5cf-15a150b177ce.png)
+ ![OngProfile](https://user-images.githubusercontent.com/19398297/233782770-ea236036-83c6-423e-9590-04f220765e3e.png)
 
             
 </div>
@@ -66,17 +76,28 @@ A Home Page, é a página que conterá toda a apresentação inicial do sistema 
 
 <div align="center">
  
-![Feed](https://user-images.githubusercontent.com/19398297/233782531-c117f388-84a0-4433-9e77-20ea5549b032.png)
+![Feed](https://user-images.githubusercontent.com/19398297/233782775-ab63453f-5b2b-4ac2-86db-fb191f48d0c0.png)
 
 </div>
 
-## Jobs List
+## CRUD Para Anúncios de Vagas
+
+## Lista de Vagas
 
 <div align="center">
  
 ![JobsList](https://user-images.githubusercontent.com/19398297/233782537-4d56aaeb-27a9-454d-9c73-f62d8dad880e.png)
 
 </div>
+
+## Formulário Detalhado Para ONGs
+
+## Fomulário Detalhado Para Voluntários
+
+## Dashboard Para ONGs
+
+## Dashboard para Voluntários
+
             
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
  
