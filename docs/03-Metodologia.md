@@ -24,7 +24,7 @@ etiquetas:
 - `enhancement`: uma funcionalidade precisa ser melhorada
 - `feature`: uma nova funcionalidade precisa ser introduzida
 
-![GitFlow](../docs/img/gitflow-ong.png)
+![GitFlow](../docs/img/gitflow-ong-fundobranco.jpg)
 
 Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
 
