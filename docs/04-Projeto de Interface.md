@@ -97,11 +97,49 @@ A Home Page, é a página que conterá toda a apresentação inicial do sistema 
 
 ## Formulário Detalhado Para ONGs
 
+<div align="center">
+ 
+ ![DetailForm ONGs](https://user-images.githubusercontent.com/19398297/233783321-55ac401d-5771-4628-af5e-30774f302485.png)
+
+ 
+</div>
+
 ## Fomulário Detalhado Para Voluntários
+
+<div align="center">
+ 
+ ![DetailForm Voluntarios](https://user-images.githubusercontent.com/19398297/233783334-07e34ce4-e58a-4a7b-949b-648c3d70994d.png)
+
+ 
+</div>
 
 ## Dashboard Para ONGs
 
+<div align="center">
+ 
+ ![DashbooardONGs](https://user-images.githubusercontent.com/19398297/233783337-0ffadc86-1582-4773-8a6a-60b4e5708e57.png)
+
+ 
+</div>
+
 ## Dashboard para Voluntários
+
+<div align="center">
+ 
+ ![DashbooardVoluntarios](https://user-images.githubusercontent.com/19398297/233783346-a7525a94-70a1-44e5-b9ea-84cc64d7d45a.png)
+
+ 
+</div>
+
+
+## Currículo de Voluntários
+
+<div align="center">
+ 
+ ![CV](https://user-images.githubusercontent.com/19398297/233783394-abee6eb7-be41-4e2d-8def-6f584a938ebf.png)
+
+ 
+</div>
 
             
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
