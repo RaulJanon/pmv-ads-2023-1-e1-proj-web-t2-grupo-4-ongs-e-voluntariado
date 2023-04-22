@@ -80,6 +80,13 @@ A Home Page, é a página que conterá toda a apresentação inicial do sistema 
 
 ## CRUD Para Anúncios de Vagas
 
+<div align="center">
+
+![ListaAnunciosCRUD](https://user-images.githubusercontent.com/19398297/233783200-f6fcd588-3bc5-4932-919a-bac6b845011c.png)
+
+
+</div>
+
 ## Lista de Vagas
 
 <div align="center">
