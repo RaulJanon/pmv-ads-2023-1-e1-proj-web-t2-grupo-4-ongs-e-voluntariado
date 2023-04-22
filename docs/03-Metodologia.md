@@ -7,6 +7,12 @@ Nessa seção apresentamos as ferramentas utilizadas para a produção e gestão
 
 ## Controle de Versão
 
+A ferramenta de controle de versão adotada no projeto foi o
+[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
+foi utilizado para hospedagem do repositório.
+
+## Relação de Ambientes de Trabalho
+
 Na tabela a seguir temos a relação dos ambientes de trabalho com suas respectivas plataformas e links de acesso. Cada ambiente foi pensado com o objetivo de melhorar a qualidade da produtividade dos desenvolvedores.
 
 |**Ambiente**|**Plataforma**|**Link de acesso**|
@@ -25,8 +31,6 @@ etiquetas:
 - `feature`: uma nova funcionalidade precisa ser introduzida
 
 ![GitFlow](../docs/img/gitflow-ong-fundobranco.jpg)
-
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
 
 <!-- > **Links Úteis**:
 > - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
@@ -68,6 +72,6 @@ As ferramentas empregadas no projeto são:
 
 - **Visual Studio Code:** Utilizado para criação de códigos, implementação de imagens e o terminal dele trabalhando junto ao Git e GitHub.
 - **Draw.io:** Utilizado para fazer o GitFlow. Porque ele é de fácil compreensão.
-- **Teams:** Encontro com tutor do ensino para sanar dúvidas e para apresentação das atividades.
+- **Teams:** Usado para encontros com tutor do ensino para sanar dúvidas e para apresentação das atividades.
 - **Discord:** Para os integrandes se comunicarem sobre o projeto.
 - **Figman:** Ferramenta de desenho de tela para compor como será os exemplos do site.
