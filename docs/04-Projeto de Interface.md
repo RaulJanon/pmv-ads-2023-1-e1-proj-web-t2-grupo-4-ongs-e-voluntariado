@@ -26,7 +26,7 @@ A plataforma possui dois tipos centrais de usuário: os voluntários e as ONGs. 
 
 <div align="justify">
  
-O primeiro fluxo desenhado é também o primeiro fluxo executado no uso da aplicação, a etapa de cadastro. O usuário que deseja se voluntariar a trabalhos sociais possui formulário de cadastro diferente do usuário que deseja cadastrar sua ONG no site
+O primeiro fluxo desenhado é também o primeiro fluxo executado no uso da aplicação, a etapa de cadastro. O usuário que deseja se voluntariar a trabalhos sociais possui formulário de cadastro diferente do usuário que deseja cadastrar sua ONG no site.
  
 </div>
 > **USO PADRÃO VOLUNTÁRIO**
