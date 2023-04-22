@@ -10,26 +10,37 @@ A interface da aplicação foi projetada a partir das histórias de usuários, d
 A plataforma possui dois tipos centrais de usuário: os voluntários e as ONGs. Da mesma forma, o fluxo de interação é dividido no uso específico de cada uma das personas. As telas serão detalhadas a seguir, na seção de Wireframes.
 
 > **CADASTRO**
-
+<div align="center">
+ 
 ![image](https://user-images.githubusercontent.com/129805332/233682783-e936f4b4-c739-4ab1-a48c-c0b3f0a1b535.png)
+ 
+</div>
 
 O primeiro fluxo desenhado é também o primeiro fluxo executado no uso da aplicação, a etapa de cadastro. O usuário que deseja se voluntariar a trabalhos sociais possui formulário de cadastro diferente do usuário que deseja cadastrar sua ONG no site.
 
 > **USO PADRÃO VOLUNTÁRIO**
 
+<div align="center">
+ 
 ![image](https://user-images.githubusercontent.com/129805332/233688006-97b14268-e2a8-4c37-80bc-5ac00b6ae212.png)
+ 
+</div>
 
 O fluxo de interação do usuário voluntário inclui a busca por vagas de voluntariado, a busca por ONGs e um dashboard de gerenciamento de suas atividades.
 
 > **USO PADRÃO ONG**
-
+ 
+<div align="center">
+ 
 ![image](https://user-images.githubusercontent.com/129805332/233688306-35190e2b-66a5-4a86-a107-82ee1292fc8a.png)
+ 
+ </div>
 
 Já o fluxo de interação do usuário inclui a busca por voluntários, assim como uma página de currículo (CV - curriculum vitae) para os voluntários, um dashboard de gerenciamento de atividades e voluntários e uma página de criação de anúncios de vagas de voluntariado.
 
-## Wireframes
+##Wireframes
 
-## Login
+>**Login**
 
 <div align="center">
 
@@ -44,9 +55,7 @@ A página Login, é a página na qual o usuário precisará autenticar através 
 </div>
 
 
-
-
-## Home 
+>**Home** 
 
 <div align="center"> 
 
@@ -84,7 +93,6 @@ A página Perfil de Voluntário, é onde todos os posts de divulgação das aç�
 <div align="center">
 
 ![OngProfile](https://user-images.githubusercontent.com/19398297/233784303-bf8aca8e-b4e3-4029-be78-a479a6f5230f.png)
-
             
 </div>
 
@@ -117,7 +125,6 @@ A página Feed, é onde todos os post, tanto de voluntários, quanto de ONGs, po
 
 ![ListaAnunciosCRUD](https://user-images.githubusercontent.com/19398297/233783200-f6fcd588-3bc5-4932-919a-bac6b845011c.png)
 
-
 </div>
 
 <div align="justify">
@@ -147,7 +154,6 @@ Após o cadastro das vagas de voluntariado disponíveis, as mesmas ficarão disp
  
  ![DetailForm ONGs](https://user-images.githubusercontent.com/19398297/233783321-55ac401d-5771-4628-af5e-30774f302485.png)
 
- 
 </div>
 
 <div align="justify">
@@ -163,7 +169,6 @@ O formulário detalhado para as ONGs é a página responsável pelo cadastro das
 <div align="center">
  
  ![DetailForm Voluntarios](https://user-images.githubusercontent.com/19398297/233783334-07e34ce4-e58a-4a7b-949b-648c3d70994d.png)
-
  
 </div>
 
@@ -181,7 +186,6 @@ Do mesmo modo, o formulário detalhado para voluntários é a página onde o vol
  
 ![DashbooardONGs](https://user-images.githubusercontent.com/19398297/233784588-7508cd8d-d971-4a69-8e71-11211395873c.png)
 
- 
 </div>
 
 <div align="justify">
@@ -197,7 +201,6 @@ O Dashboard para ONGs é a página que fornecerá os dados de gestão de equipes
 <div align="center">
  
 ![DashbooardVoluntarios](https://user-images.githubusercontent.com/19398297/233784591-0df3334c-a813-4457-b877-8c7ba716d8ca.png)
-
  
 </div>
 
@@ -209,14 +212,12 @@ O Dashboard para voluntários é a página onde constarão as atividades demanda
 
 
 
-
 ## Currículo de Voluntários
 
 <div align="center">
  
  ![CV](https://user-images.githubusercontent.com/19398297/233783394-abee6eb7-be41-4e2d-8def-6f584a938ebf.png)
 
- 
 </div>
 
 <div align="justify">
@@ -230,16 +231,17 @@ O Dashboard para voluntários é a página onde constarão as atividades demanda
 <div align="center">
  
 ![chat](https://user-images.githubusercontent.com/19398297/233784972-2cae57e9-6f2b-4bce-a489-cc66310c8151.png)
-
  
 </div>
 
 <div align="justify">
  
-A lista de amigos e o chat compõem uma página onde, tanto o voluntário quanto as ONGs podem interagir entre si através de chat de conversa.
+A lista de amigos e o chat compõem uma página onde, tanto o voluntários, quanto ONGs podem interagir entre si através de chat de conversa.
  
 </div>
         
+            
+            
             
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
  
