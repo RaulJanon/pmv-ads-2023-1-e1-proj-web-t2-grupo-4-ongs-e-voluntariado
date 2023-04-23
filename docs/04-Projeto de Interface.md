@@ -62,22 +62,6 @@ Já o fluxo de interação do usuário inclui a busca por voluntários, assim co
 
 A seguir, estão descritas as páginas da aplicação.
 
->**Login**
-
-<div align="center">
-
-![Login](https://user-images.githubusercontent.com/19398297/233782905-56122e03-21c7-4447-91b1-78fe3bea832f.png)
- 
-
-</div>
-<div align="justify">
- 
-Na página Login, o usuário precisará autenticar através de senha o seu acesso à plataforma. Deverá ser uma página simples, de modo que não haja qualquer dubiedade quanto aos locais de inserção de e-mail e senha.
- 
-</div>
-
-
-
 >**Home** 
 
 <div align="center"> 
@@ -94,88 +78,19 @@ A Home Page é a página que conterá a apresentação inicial do sistema para o
 </div>
 
 
-
-
->**Perfil de Voluntário**
-
-<div align="center"> 
-
-![VolunteerProfile](https://user-images.githubusercontent.com/19398297/233787332-a2db89f2-02f9-4345-a9d2-357c375e453e.png)
- 
-</div>
-
-<div align="justify">
- 
-A página Perfil de Voluntário é onde todos os posts de divulgação das ações do voluntário poderão ser postados, e é onde também haverão algumas informações como, por exemplo, a bio do voluntário e seu currículo.
- 
-</div>
-
-
-
-
->**Perfil de ONG**
+>**Login**
 
 <div align="center">
 
-![OngProfile](https://user-images.githubusercontent.com/19398297/233784303-bf8aca8e-b4e3-4029-be78-a479a6f5230f.png)
-            
-</div>
+![Login](https://user-images.githubusercontent.com/19398297/233782905-56122e03-21c7-4447-91b1-78fe3bea832f.png)
+ 
 
+</div>
 <div align="justify">
  
-A página de Perfil de ONG será onde todas as ações das ONGs poderão ser postadas de modo a divulgar sua atuação. Também é onde poderá se encontrar as informações sobre a ONG. O perfil da ONG será sua principal ferramenta de divulgação.
+Na página Login, o usuário precisará autenticar através de senha o seu acesso à plataforma. Deverá ser uma página simples, de modo que não haja qualquer dubiedade quanto aos locais de inserção de e-mail e senha.
  
 </div>
-
-
-
-           
->**Feed**
-
-<div align="center">
- 
-![Feed](https://user-images.githubusercontent.com/19398297/233782775-ab63453f-5b2b-4ac2-86db-fb191f48d0c0.png)
-
-</div>
-
-<div align="justify">
- 
-Na página Feed, todos os post, tanto de voluntários, quanto de ONGs, podem ser visualizados em um feed de rolagem vertical. O Feed será, juntamente com os perfis, uma importante ferramenta de divulgação de ações. Deverá possibilitar comentários, curtidas e compartilhamentos.
- 
-</div>
-
-
-
->**CRUD Para Anúncios de Vagas**
-
-<div align="center">
-
-![ListaAnunciosCRUD](https://user-images.githubusercontent.com/19398297/233783200-f6fcd588-3bc5-4932-919a-bac6b845011c.png)
-
-</div>
-
-<div align="justify">
- 
-A página CRUD para anúncios de vagas possibilitará para as ONGs a criação e a edição de seus anúncios de vagas.É a página onde serão cadastradas as vagas de voluntariado disponíveis.
- 
-</div>
-
-
-
->**Lista de Vagas**
-
-<div align="center">
- 
-![JobsList](https://user-images.githubusercontent.com/19398297/233782537-4d56aaeb-27a9-454d-9c73-f62d8dad880e.png)
-
-</div>
-
-<div align="justify">
- 
-Após o cadastro das vagas de voluntariado disponíveis, as mesmas ficarão dispostas em uma lista de vagas. Nesta página deverá ser possível, para os voluntários, pesquisar e filtrar os tipos de vagas que mais se adequem às sua habilidades e disponibilidades.
- 
-</div>
-
 
 
 >**Formulário Detalhado Para ONGs**
@@ -193,7 +108,6 @@ O formulário detalhado para as ONGs é a página responsável pelo cadastro das
 </div>
 
 
-
 >**Formulário Detalhado Para Voluntários**
 
 <div align="center">
@@ -209,37 +123,34 @@ Do mesmo modo, o formulário detalhado para voluntários é a página onde o vol
 </div>
 
 
-
->**Dashboard Para ONGs**
+>**Perfil de ONG**
 
 <div align="center">
- 
-![DashbooardONGs](https://user-images.githubusercontent.com/19398297/233784588-7508cd8d-d971-4a69-8e71-11211395873c.png)
 
+![OngProfile](https://user-images.githubusercontent.com/19398297/233784303-bf8aca8e-b4e3-4029-be78-a479a6f5230f.png)
+            
 </div>
 
 <div align="justify">
  
-O Dashboard para ONGs é a página que fornecerá os dados de gestão de equipes e mão de obra para as ONGs.
+A página de Perfil de ONG será onde todas as ações das ONGs poderão ser postadas de modo a divulgar sua atuação. Também é onde poderá se encontrar as informações sobre a ONG. O perfil da ONG será sua principal ferramenta de divulgação.
  
 </div>
 
 
+>**Perfil de Voluntário**
 
->**Dashboard para Voluntários**
+<div align="center"> 
 
-<div align="center">
- 
-![DashbooardVoluntarios](https://user-images.githubusercontent.com/19398297/233784591-0df3334c-a813-4457-b877-8c7ba716d8ca.png)
+![VolunteerProfile](https://user-images.githubusercontent.com/19398297/233787332-a2db89f2-02f9-4345-a9d2-357c375e453e.png)
  
 </div>
 
 <div align="justify">
  
-O Dashboard para voluntários é a página onde constarão as atividades demandadas pelas ONGs aos seus voluntários. É onde o voluntário encontrará um sistema de gestão de suas tarefas para as vagas de voluntariado as quais aplicou.
+A página Perfil de Voluntário é onde todos os posts de divulgação das ações do voluntário poderão ser postados, e é onde também haverão algumas informações como, por exemplo, a bio do voluntário e seu currículo.
  
 </div>
-
 
 
 >**Currículo de Voluntários**
@@ -256,6 +167,79 @@ O Dashboard para voluntários é a página onde constarão as atividades demanda
  
 </div>
 
+
+>**Feed**
+
+<div align="center">
+ 
+![Feed](https://user-images.githubusercontent.com/19398297/233782775-ab63453f-5b2b-4ac2-86db-fb191f48d0c0.png)
+
+</div>
+
+<div align="justify">
+ 
+Na página Feed, todos os post, tanto de voluntários, quanto de ONGs, podem ser visualizados em um feed de rolagem vertical. O Feed será, juntamente com os perfis, uma importante ferramenta de divulgação de ações. Deverá possibilitar comentários, curtidas e compartilhamentos.
+ 
+</div>
+
+
+>**Lista de Vagas**
+
+<div align="center">
+ 
+![JobsList](https://user-images.githubusercontent.com/19398297/233782537-4d56aaeb-27a9-454d-9c73-f62d8dad880e.png)
+
+</div>
+
+<div align="justify">
+ 
+Após o cadastro das vagas de voluntariado disponíveis, as mesmas ficarão dispostas em uma lista de vagas. Nesta página deverá ser possível, para os voluntários, pesquisar e filtrar os tipos de vagas que mais se adequem às sua habilidades e disponibilidades.
+ 
+</div>
+
+
+>**CRUD Para Anúncios de Vagas**
+
+<div align="center">
+
+![ListaAnunciosCRUD](https://user-images.githubusercontent.com/19398297/233783200-f6fcd588-3bc5-4932-919a-bac6b845011c.png)
+
+</div>
+
+<div align="justify">
+ 
+A página CRUD para anúncios de vagas possibilitará para as ONGs a criação e a edição de seus anúncios de vagas.É a página onde serão cadastradas as vagas de voluntariado disponíveis.
+ 
+</div>
+
+>**Dashboard Para ONGs**
+
+<div align="center">
+ 
+![DashbooardONGs](https://user-images.githubusercontent.com/19398297/233784588-7508cd8d-d971-4a69-8e71-11211395873c.png)
+
+</div>
+
+<div align="justify">
+ 
+O Dashboard para ONGs é a página que fornecerá os dados de gestão de equipes e mão de obra para as ONGs.
+ 
+</div>
+
+
+>**Dashboard para Voluntários**
+
+<div align="center">
+ 
+![DashbooardVoluntarios](https://user-images.githubusercontent.com/19398297/233784591-0df3334c-a813-4457-b877-8c7ba716d8ca.png)
+ 
+</div>
+
+<div align="justify">
+ 
+O Dashboard para voluntários é a página onde constarão as atividades demandadas pelas ONGs aos seus voluntários. É onde o voluntário encontrará um sistema de gestão de suas tarefas para as vagas de voluntariado as quais aplicou.
+ 
+</div>
 
 
 >**Lista de Amigo/Chat**
