@@ -3,12 +3,12 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Nessa seção apresentamos as ferramentas utilizadas para a produção e gestão do projeto.
+Nesta seção apresentamos as ferramentas utilizadas para a produção e gestão do projeto.
 
 ## Controle de Versão
 
 A ferramenta de controle de versão adotada no projeto foi o
-[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
+[Git](https://git-scm.com/), e o [Github](https://github.com)
 foi utilizado para hospedagem do repositório.
 
 ## Relação de Ambientes de Trabalho
@@ -43,11 +43,11 @@ etiquetas:
 
 ### Divisão de Papéis
 
-**Scrum Master:** Ana Beatriz. <br>
-**Product Owner:** Ademir Colares. <br>
-**Equipe de Desenvolvimento:** Raul Janon, Jefferson Freitas. <br>
-**Equipe de Design:** Thiago Jesus. <br>
-**Equipe de Testes:** Leandro Pereira.
+**Scrum Master:** Ana Beatriz <br>
+**Product Owner:** Ademir Colares <br>
+**Equipe de Desenvolvimento:** Raul Janon, Jefferson Freitas <br>
+**Equipe de Design:** Thiago Jesus <br>
+**Equipe de Testes:** Leandro Pereira
 
 <!-- > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu 
@@ -74,4 +74,4 @@ As ferramentas empregadas no projeto são:
 - **Draw.io:** Utilizado para fazer o GitFlow. Porque ele é de fácil compreensão.
 - **Teams:** Usado para encontros com tutor do ensino para sanar dúvidas e para apresentação das atividades.
 - **Discord:** Para os integrandes se comunicarem sobre o projeto.
-- **Figman:** Ferramenta de desenho de tela para compor como será os exemplos do site.
+- **Figma:** Ferramenta de desenho de tela para compor como será os exemplos do site.
