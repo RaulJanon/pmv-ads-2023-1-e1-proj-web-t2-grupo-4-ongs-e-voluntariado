@@ -60,6 +60,8 @@ Já o fluxo de interação do usuário inclui a busca por voluntários, assim co
 
 ## Wireframes
 
+A seguir, estão descritas as páginas da aplicação.
+
 >**Login**
 
 <div align="center">
@@ -70,7 +72,7 @@ Já o fluxo de interação do usuário inclui a busca por voluntários, assim co
 </div>
 <div align="justify">
  
-A página Login, é a página na qual o usuário precisará autenticar através de senha o seu acesso à plataforma. Deverá ser uma página simples, de modo que não haja qualquer dubiedade quanto aos locais de inserção de email e senha.
+Na página Login, o usuário precisará autenticar através de senha o seu acesso à plataforma. Deverá ser uma página simples, de modo que não haja qualquer dubiedade quanto aos locais de inserção de e-mail e senha.
  
 </div>
 
@@ -87,7 +89,7 @@ A página Login, é a página na qual o usuário precisará autenticar através 
 
 <div align="justify">
  
-A Home Page, é a página que conterá toda a apresentação inicial do sistema para os usuários, tanto voluntários, quanto ONGs. O objetivo é que seja suscinta e simples, de modo que, o usuário consiga facilmente entender do que se trata o site e se cadastrar utilizando, inicialmente, apenas um email e senha.
+A Home Page é a página que conterá a apresentação inicial do sistema para os usuários, tanto voluntários, quanto ONGs. O objetivo é que seja suscinta e simples, de modo que o usuário consiga facilmente entender do que se trata o site e se cadastrar utilizando, inicialmente, apenas um email e senha.
  
 </div>
 
@@ -104,7 +106,7 @@ A Home Page, é a página que conterá toda a apresentação inicial do sistema 
 
 <div align="justify">
  
-A página Perfil de Voluntário, é onde todos os posts de divulgação das ações do voluntário poderão ser postados, é onde também haverão algumas informações como, por exemplo, a Bio do voluntário e será atrelada ao seu Curriculo.
+A página Perfil de Voluntário é onde todos os posts de divulgação das ações do voluntário poderão ser postados, e é onde também haverão algumas informações como, por exemplo, a bio do voluntário e seu currículo.
  
 </div>
 
@@ -121,7 +123,7 @@ A página Perfil de Voluntário, é onde todos os posts de divulgação das aç�
 
 <div align="justify">
  
-A página de Perfil de ONG será onde todas as ações das ONGs poderão ser postadas de modo a divulgar suas atuações em suas respectivas áreas. Também, é onde poderá se encontrar as informações sobre a ONG. O perfil da ONG será sua principal ferramenta de divulgação.
+A página de Perfil de ONG será onde todas as ações das ONGs poderão ser postadas de modo a divulgar sua atuação. Também é onde poderá se encontrar as informações sobre a ONG. O perfil da ONG será sua principal ferramenta de divulgação.
  
 </div>
 
@@ -138,7 +140,7 @@ A página de Perfil de ONG será onde todas as ações das ONGs poderão ser pos
 
 <div align="justify">
  
-A página Feed, é onde todos os post, tanto de voluntários, quanto de ONGs, podem ser visualizados em um feed de rolagem vertical. O Feed será, juntamente com o perfil uma importante ferramenta de divulgação de ações. Deverá possibilitar comentários, curtidas e compartilhamentos.
+Na página Feed, todos os post, tanto de voluntários, quanto de ONGs, podem ser visualizados em um feed de rolagem vertical. O Feed será, juntamente com os perfis, uma importante ferramenta de divulgação de ações. Deverá possibilitar comentários, curtidas e compartilhamentos.
  
 </div>
 
@@ -154,7 +156,7 @@ A página Feed, é onde todos os post, tanto de voluntários, quanto de ONGs, po
 
 <div align="justify">
  
-A página CRUD para anúncios de vagas é a página que possibilitará para as ONGs a criação e a edição de seus anúncios de vagas.É a página onde serão cadastradas as vagas de voluntariado disponíveis.
+A página CRUD para anúncios de vagas possibilitará para as ONGs a criação e a edição de seus anúncios de vagas.É a página onde serão cadastradas as vagas de voluntariado disponíveis.
  
 </div>
 
@@ -170,7 +172,7 @@ A página CRUD para anúncios de vagas é a página que possibilitará para as O
 
 <div align="justify">
  
-Após o cadastro das vagas de voluntariado disponíveis, as mesmas ficarão dispostas em uma página dedicada a ser uma lista de vagas. Nesta página deverá ser possível, para os voluntários, pesquisar e filtrar os tipos de vagas que mais se adequem às sua habilidades e disponibilidades.
+Após o cadastro das vagas de voluntariado disponíveis, as mesmas ficarão dispostas em uma lista de vagas. Nesta página deverá ser possível, para os voluntários, pesquisar e filtrar os tipos de vagas que mais se adequem às sua habilidades e disponibilidades.
  
 </div>
 
@@ -265,20 +267,6 @@ O Dashboard para voluntários é a página onde constarão as atividades demanda
 </div>
 
 <div align="justify">
-A lista de amigos e o chat compõem uma página onde, tanto o voluntários, quanto ONGs podem interagir entre si através de chat de conversa.
+A lista de amigos e o chat compõem uma página onde tanto o voluntários, quanto ONGs podem interagir entre si através de conversa.
  
 </div>
-        
-            
-            
-            
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
