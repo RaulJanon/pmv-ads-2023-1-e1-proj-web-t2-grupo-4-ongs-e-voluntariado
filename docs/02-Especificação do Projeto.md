@@ -6,13 +6,29 @@ A definição do problema e dos pontos a serem tratados neste projeto foram cons
 
 ## Personas
 
-* Joana Drupe
+### Joana Drupe.
 
-Joana tem 32 anos, é advogada, e se encontrou no trabalho voluntário. Comeceu a exercer voluntariado em um projeto social com moradores de rua, participando das dinâmicas e também auxiliando na equipe de comunicação e redes sociais da ONG. Ela gostaria de conhecer e colaborar também com outras organizações.
+![JoanaDrupe](https://user-images.githubusercontent.com/127978114/233849978-b1b48294-791a-4dc9-9931-2f1c59688431.png)
 
-* Daniel Garcia
+> 32 anos, Advogada.
 
-Daniel tem 40 anos e é médico veterinário. Defensor da causa animal, fundou uma organização sem fins lucrativos para resgatar animais de rua e em situações de risco. Ele gostaria de encontrar mais pessoas dispostas a atuar nesta causa.
+|                   |                                                                                                              |
+| ----------------- | ------------------------------------------------------------------------------------------------------------ |
+| **Motivações:**       | Me encontrei no trabalho voluntário. Participei de projetos sociais com moradores de rua e crianças em vulnerabilidade social. Meu foco é contribuir para um mundo melhor e ser exemplo para os demais. |
+| **Frustrações:** | Formada em Direito, ao atuar na área acabei percebendo que não estava realizada e sentia que precisava de algo mais.                          |
+| **Hobbies,História:**      | Aos 30 anos conheci um projeto que leva refeições para pessoas em situação de rua. Além de participar das dinâmicas, entrei na equipe de comunicação da ONG, fazendo postagem para redes sociais. Até hoje sou ativa, mas também colaboro com o trabalho de outras organizações.                       |
+
+### Daniel Garcia.
+
+![DanielGarcia](https://user-images.githubusercontent.com/127978114/233851557-f8130be2-f1e0-4be2-ace2-b3c4386bac86.png)
+
+> 40 anos, Médico Veterinário.
+
+|                   |                                                                                                              |
+| ----------------- | ------------------------------------------------------------------------------------------------------------ |
+| **Motivações:**       | Defensor da causaanimal. Fundei uma organização sem fins lucrativos para resgatar animais de rua e em estado derisco. |
+| **Frustrações:** | Não conseguir ajudar todos os animais e pessoas em situações críticas em que se encontram.                          |
+| **Hobbies,História:**      | Adoro ajudar o próximo e gosto de trabalhar em equipe. Depois de atuar muitos anos em clínicas veterinárias decidi me dedicar integralmente a esta causa.                       |  
 
 ## Histórias de Usuários
 
