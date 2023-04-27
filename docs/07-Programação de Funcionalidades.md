@@ -7,7 +7,7 @@ As telas desenvolvidas apresentadas no <a href="04-Projeto de Interface.md"> Pro
 >- **RF-001:**
 As telas XXX e XXX atendem ao requisito X. Este requisito é de prioridade X.
 >- **RF-002:**
-As telas XXX e XXX atendem ao requisito X. Este requisito é de prioridade X.
+A tela de perfil da ONG atende ao requisito 002, ao possibilitar a criação do perfil das ONGs, contendo as informações mais relevantes sobre a ONG, como causas defendidas, projetos realizados, demandas de voluntários, endereço da ONG e meios de contato. Este requisito é de prioridade alta.
 >- **RF-003:**
 A tela de formulário detalhado para voluntários atende ao requisito 003 ao possibilitar a criação de perfil com informações dos voluntários. A tela de perfil de voluntário mostra este requisito atendido, com o resultado do perfil criado a partir do formulário. Este requisito é de prioridade alta.
 >- **RF-004:**
