@@ -6,7 +6,7 @@ A definição do problema e dos pontos a serem tratados neste projeto foram cons
 
 ## Personas
 
-### Joana Drupe.
+### Joana Drupe
 
 ![JoanaDrupe](https://user-images.githubusercontent.com/127978114/233849978-b1b48294-791a-4dc9-9931-2f1c59688431.png)
 
@@ -14,11 +14,11 @@ A definição do problema e dos pontos a serem tratados neste projeto foram cons
 
 |                   |                                                                                                              |
 | ----------------- | ------------------------------------------------------------------------------------------------------------ |
-| **Motivações:**       | Me encontrei no trabalho voluntário. Participei de projetos sociais com moradores de rua e crianças em vulnerabilidade social. Meu foco é contribuir para um mundo melhor e ser exemplo para os demais. |
-| **Frustrações:** | Formada em Direito, ao atuar na área acabei percebendo que não estava realizada e sentia que precisava de algo mais.                          |
-| **Hobbies,História:**      | Aos 30 anos conheci um projeto que leva refeições para pessoas em situação de rua. Além de participar das dinâmicas, entrei na equipe de comunicação da ONG, fazendo postagem para redes sociais. Até hoje sou ativa, mas também colaboro com o trabalho de outras organizações.                       |
+| **Motivações:**       | Me encontrei no trabalho voluntário. Participei de projetos sociais com moradores de rua e crianças em vulnerabilidade social. Meu foco é contribuir para um mundo melhor e ser exemplo para os demais |
+| **Frustrações:** | Formada em Direito, ao atuar na área acabei percebendo que não estava realizada e sentia que precisava de algo mais                          |
+| **Hobbies, História:**      | Aos 30 anos conheci um projeto que leva refeições para pessoas em situação de rua. Além de participar das dinâmicas, entrei na equipe de comunicação da ONG, fazendo postagem para redes sociais. Até hoje sou ativa, mas também colaboro com o trabalho de outras organizações                       |
 
-### Daniel Garcia.
+### Daniel Garcia
 
 ![DanielGarcia](https://user-images.githubusercontent.com/127978114/233851557-f8130be2-f1e0-4be2-ace2-b3c4386bac86.png)
 
@@ -26,9 +26,9 @@ A definição do problema e dos pontos a serem tratados neste projeto foram cons
 
 |                   |                                                                                                              |
 | ----------------- | ------------------------------------------------------------------------------------------------------------ |
-| **Motivações:**       | Defensor da causaanimal. Fundei uma organização sem fins lucrativos para resgatar animais de rua e em estado derisco. |
-| **Frustrações:** | Não conseguir ajudar todos os animais e pessoas em situações críticas em que se encontram.                          |
-| **Hobbies,História:**      | Adoro ajudar o próximo e gosto de trabalhar em equipe. Depois de atuar muitos anos em clínicas veterinárias decidi me dedicar integralmente a esta causa.                       |  
+| **Motivações:**       | Defensor da causa animal. Fundei uma organização sem fins lucrativos para resgatar animais de rua e em estado de risco |
+| **Frustrações:** | Não conseguir ajudar todos os animais e pessoas em situações críticas                          |
+| **Hobbies, História:**      | Adoro ajudar o próximo e gosto de trabalhar em equipe. Depois de atuar muitos anos em clínicas veterinárias decidi me dedicar integralmente a esta causa                       |  
 
 ## Histórias de Usuários
 
