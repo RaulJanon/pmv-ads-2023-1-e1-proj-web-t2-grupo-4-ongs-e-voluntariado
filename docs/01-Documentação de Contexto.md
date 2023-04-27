@@ -1,6 +1,6 @@
 # Introdução
 
-As organizações da sociedade civil, também denominadas organizações não governamentais (ONGs), são instituições sem fins lucrativos e com fins públicos, baseadas na participação voluntária. Segundo o último [Mapa das Organizações da Sociedade Civil](https://mapaosc.ipea.gov.br/mapa), realizado pelo Instituto de Pesquisa Econômica Aplicada (IPEA), até 2020 existiam mais de 815 mil ONGs no Brasil, em atuação por diversas causas1. 
+As organizações da sociedade civil, também denominadas organizações não governamentais (ONGs), são instituições sem fins lucrativos e com fins públicos, baseadas na participação voluntária. Segundo o último [Mapa das Organizações da Sociedade Civil](https://mapaosc.ipea.gov.br/mapa), realizado pelo Instituto de Pesquisa Econômica Aplicada (IPEA), até 2020 existiam mais de 815 mil ONGs no Brasil, em atuação por diversas causas. 
 
 Muitas pessoas realizam trabalhos voluntários em busca de tornar o país melhor, seja no presente ou para gerações futuras. [Já existem cerca de 57 milhões de voluntários ativos no país](https://mapaosc.ipea.gov.br/post/131/pesquisa-revela-perfil-dos-voluntarios-no-pais) e certamente mais pessoas gostariam de contribuir para as causas nas quais acreditam, mas não sabem como. Ao mesmo tempo, pequenas instituições sem fins lucrativos podem ter dificuldade em divulgar seu trabalho e captar e gerenciar seus voluntários, seja por falta de tempo, de recursos financeiros ou de pessoas qualificadas para este fim. 
 
