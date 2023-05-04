@@ -6,11 +6,11 @@ As telas desenvolvidas apresentadas no <a href="04-Projeto de Interface.md"> Pro
 
 >- **RF-001: Pesquisar Novas ONGs**
 >
- <p text-align="justify"> 
+ <div text-align="justify"> 
  
  As telas de número 02 a 13 atendem ao requisito funcional para pesquisa de novas ONGs, visto que todas as telas, nesse intervalo de numeração, implementam uma barra de pesquisa, que serve, dentre outras coisas, para a pesquisa de novas ONGs por parte dos voluntários. Este requisito é de prioridade alta.
  
-</p>
+</div>
 
 >- **RF-002:**
 A tela de perfil da ONG atende ao requisito 002, ao possibilitar a criação do perfil das ONGs, contendo as informações mais relevantes sobre a ONG, como causas defendidas, projetos realizados, demandas de voluntários, endereço da ONG e meios de contato. Este requisito é de prioridade alta.
