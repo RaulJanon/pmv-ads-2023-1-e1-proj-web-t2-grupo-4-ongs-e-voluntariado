@@ -16,6 +16,7 @@ As telas desenvolvidas apresentadas no <a href="04-Projeto de Interface.md"> Pro
 A tela de perfil da ONG atende ao requisito 002, ao possibilitar a criação do perfil das ONGs, contendo as informações mais relevantes sobre a ONG, como causas defendidas, projetos realizados, demandas de voluntários, endereço da ONG e meios de contato. Este requisito é de prioridade alta.
 >- **RF-003:**
 A tela de formulário detalhado para voluntários atende ao requisito 003 ao possibilitar a criação de perfil com informações dos voluntários. A tela de perfil de voluntário mostra este requisito atendido, com o resultado do perfil criado a partir do formulário. Este requisito é de prioridade alta.
+
 >- **RF-004:**
 As telas XXX e XXX atendem ao requisito X. Este requisito é de prioridade X.
 >- **RF-005:**
@@ -23,7 +24,13 @@ As telas XXX e XXX atendem ao requisito X. Este requisito é de prioridade X.
 >- **RF-006:**
 As telas XXX e XXX atendem ao requisito X. Este requisito é de prioridade X.
 >- **RF-007:**
-As telas XXX e XXX atendem ao requisito X. Este requisito é de prioridade X.
+
+<div align="justify">
+ 
+A tela de número 12 atende ao requisito funcional 7. Pois, e nessa tela onde se encontra o dashboard e o sistema de gestão de mão de obra para as ONGs. Este requisito é de prioridade intermediária.
+ 
+</div>
+
 >- **RF-008:**
 A tela de dashboard para voluntários atende ao requisito 008 de gerenciamento das atividades de voluntariado. Ela permite ao usuário conferir suas contribuições, adicionar lembretes e atribuir status para suas atividades. Este requisito é de prioridade média.
 >- **RF-009:**
