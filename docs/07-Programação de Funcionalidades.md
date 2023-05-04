@@ -4,8 +4,9 @@
 
 As telas desenvolvidas apresentadas no <a href="04-Projeto de Interface.md"> Projeto de Interface</a> buscam atender aos requisitos funcionais e não funcionais do site. A seguir, especificamos quais requisitos são atendidos em quais telas da aplicação. 
 
->- **RF-001:**
-As telas XXX e XXX atendem ao requisito X. Este requisito é de prioridade X.
+>- **RF-001: Pesquisar Novas ONGs**
+ <p text-align="justify"> As telas de número 02 a 13 atendem ao requisito funcional para pesquisa de novas ONGs, visto que todas as telas, nesse intervalo de numeração, implementam uma barra de pesquisa, que serve, dentre outras coisas, para a pesquisa de novas ONGs por parte dos voluntários. Este requisito é de prioridade alta.
+</p>
 >- **RF-002:**
 A tela de perfil da ONG atende ao requisito 002, ao possibilitar a criação do perfil das ONGs, contendo as informações mais relevantes sobre a ONG, como causas defendidas, projetos realizados, demandas de voluntários, endereço da ONG e meios de contato. Este requisito é de prioridade alta.
 >- **RF-003:**
