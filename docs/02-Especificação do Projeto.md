@@ -81,3 +81,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir:
 |01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data proposta |
 |02| O aplicativo deve se restringir às tecnologias básicas da Web no Front-end        |
 |03| A equipe não pode subcontratar o desenvolvimento do trabalho        |
+
+Testando commit
+test commit 2
