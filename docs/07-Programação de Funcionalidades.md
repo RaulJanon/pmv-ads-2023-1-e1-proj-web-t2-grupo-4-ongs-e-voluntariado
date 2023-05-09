@@ -18,7 +18,7 @@ A tela de perfil da ONG atende ao requisito 002, ao possibilitar a criação do 
 A tela de formulário detalhado para voluntários atende ao requisito 003 ao possibilitar a criação de perfil com informações dos voluntários. A tela de perfil de voluntário mostra este requisito atendido, com o resultado do perfil criado a partir do formulário. Este requisito é de prioridade alta.
 
 >- **RF-004:**
-As telas XXX e XXX atendem ao requisito X. Este requisito é de prioridade X.
+A tela de contato direto com as ONGs e os voluntários atende ao requisito 04, será apenas um link de direcionamento para o Whatsapp dos mesmos. Esta tela tem prioridade baixa.
 >- **RF-005:**
 As telas XXX e XXX atendem ao requisito X. Este requisito é de prioridade X.
 >- **RF-006:**
@@ -34,7 +34,7 @@ A tela de número 12 atende ao requisito funcional 7. Pois, e nessa tela onde se
 >- **RF-008:**
 A tela de dashboard para voluntários atende ao requisito 008 de gerenciamento das atividades de voluntariado. Ela permite ao usuário conferir suas contribuições, adicionar lembretes e atribuir status para suas atividades. Este requisito é de prioridade média.
 >- **RF-009:**
-A tela de número 09 atende ao requisito funcional para comunicação entre voluntários e ONGs. Pois, é nesta tela onde se encontra o chat e lista de contatos. 
+A tela de número 009 atende ao requisito funcional para comunicação entre voluntários e ONGs. Pois, é nesta tela onde se encontra o chat e lista de contatos. 
 Este requisito é de prioridade baixa.
 
 // DESCRIÇÃO DA SEÇÃO:
