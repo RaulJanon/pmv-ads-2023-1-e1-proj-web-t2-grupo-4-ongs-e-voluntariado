@@ -34,7 +34,8 @@ A tela de número 12 atende ao requisito funcional 7. Pois, e nessa tela onde se
 >- **RF-008:**
 A tela de dashboard para voluntários atende ao requisito 008 de gerenciamento das atividades de voluntariado. Ela permite ao usuário conferir suas contribuições, adicionar lembretes e atribuir status para suas atividades. Este requisito é de prioridade média.
 >- **RF-009:**
-As telas XXX e XXX atendem ao requisito X. Este requisito é de prioridade X.
+A tela de número 09 atende ao requisito funcional para comunicação entre voluntários e ONGs. Pois, é nesta tela onde se encontra o chat e lista de contatos. 
+Este requisito é de prioridade baixa.
 
 // DESCRIÇÃO DA SEÇÃO:
 Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
