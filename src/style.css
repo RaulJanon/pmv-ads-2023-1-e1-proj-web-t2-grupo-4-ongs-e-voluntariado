@@ -1,63 +1,123 @@
+/* HEADER CSS */
 .wrapper {
-    display: grid;
-    grid-template-columns: 50% 50%;
-    grid-template-rows: 150px 1fr;
-    grid-template-areas: "cabecalho"
-                        "destaque login";
-    grid-gap: 5px 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
 }
 
-header {
-    grid-area: cabecalho;
+.wrapper img {
+  margin-left: 60px;
 }
 
-.destaque {
-    float: left;
-    grid-area: destaque;
-    padding: 100px;
+.wrapper .wrapper-navbar {
+  display: flex;
+  flex-direction: row;
+  margin-right: 50px;
+  list-style: none;
+  font-family: Roboto;
+  color: #4a4a4a;
+  font-size: 18px;
 }
 
-.login {
-    float: right;
-    grid-area: login;
-    padding: 20px;
+/*TIRAR DÚVIDA ALINHAMENTO */
+.wrapper .wrapper-navbar .wrapper-button-active {
+  background-color: #fdc886;
+  padding: 8px;
+  border-radius: 5px;
 }
 
-.logo {
-    float: left;
-    padding: 25px;
+.wrapper .wrapper-navbar .wrapper-li {
+  margin-left: 30px;
+  margin-top: 8px;
 }
 
-.menu-superior {
-    float: right;
-    font-family: Roboto;
-    color: #4A4A4A;
-    font-size: 18px;
+.wrapper .wrapper-navbar .wrapper-button-active:hover {
+  color: black;
 }
 
-.menu-superior > ul {
-    list-style: none;
-    padding: 5px;
+.wrapper .wrapper-navbar .wrapper-li:hover {
+  background: white;
+  color: #fdc886;
 }
 
-.menu-superior > ul > li {
-    display: inline-block;
-    padding: 10px;
-    text-align: center;
+/* CONTENT CSS */
+.container {
+  display: flex;
+  flex-direction: row;
+  margin-top: 0px;
 }
 
-.menu-superior > ul > li.active {
-    background-color: #FDC886;
+.container .container-image {
+  display: flex;
+  flex-direction: column;
+  width: 55%;
+  margin-left: -32px;
 }
 
-.menu-superior > ul > li:hover {
-    background: white;
-    color: #FDC886;
+.container .container-image h1 {
+  text-align: center;
+  font-family: Poppins;
+  font-weight: Medium;
+  font-size: 36px;
+  color: #4a4a4a;
+  margin-bottom: -30px;
 }
 
-h1 {
-    font-family: Poppins;
-    font-weight: Medium;
-    font-size: 37px;
-    color:#4A4A4A;
+.container .container-card {
+  display: flex;
+  flex-direction: column;
+  width: 45%;
+  margin: 100px 70px 50px 250px;
+  padding: 20px;
+  border: 1px solid #4a4a4a;
+  border-radius: 30px;
+  text-align: center;
+}
+
+.container .container-card h1 {
+  font-family: Poppins;
+  font-weight: Medium;
+  color: #4a4a4a;
+  font-size: 25px;
+  margin-bottom: 40px;
+}
+
+.container .container-card .container-content {
+  display: flex;
+  flex-direction: column;
+  font-family: Roboto;
+  font-weight: Medium;
+  font-size: 18px;
+  color: #4a4a4a;
+}
+
+input[type="text"],
+[type="password"] {
+  border: 1px solid #4a4a4a;
+  border-radius: 4px;
+  margin-bottom: 20px;
+}
+
+.container .container-card .container-content button {
+  font-family: Roboto;
+  font-weight: Medium;
+  font-size: 15px;
+  font-family: Roboto;
+  font-weight: Bold;
+  font-size: 15px;
+  background: #fdc886;
+  color: #4a4a4a;
+  border: none;
+  border-radius: 4px;
+  margin-top: 20px;
+}
+
+.container .container-card .container-content button:hover {
+  color: black;
+}
+
+/* UTILS CLASSNAMES */
+.margin-flexbox {
+  margin: 20px;
 }
