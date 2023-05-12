@@ -30,15 +30,6 @@ etiquetas:
 - `enhancement`: uma funcionalidade precisa ser melhorada
 - `feature`: uma nova funcionalidade precisa ser introduzida
 
-![GitFlow](../docs/img/gitflow-ong-fundobranco.jpg)
-
-<!-- > **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs) -->
-
 ## Gerenciamento de Projeto
 
 ### Divisão de Papéis
@@ -49,29 +40,36 @@ etiquetas:
 **Equipe de Design:** Thiago Jesus <br>
 **Equipe de Testes:** Leandro Pereira
 
-<!-- > **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0) -->
-
 ### Processo
 
 Aqui é onde armazenamos nossas tarefas baseados no Scrum.
 
 ![Backlog](../docs/img/backlog-ong.PNG)
+
+### Ferramentas
+
+As ferramentas empregadas no projeto são:
+
+- **Visual Studio Code:** Utilizado para criação de códigos, implementação de imagens e integração do terminal ao Git e GitHub.
+- **Teams:** Usado para encontros com tutor do ensino para sanar dúvidas e para apresentação das atividades.
+- **Discord:** Para os integrandes se comunicarem sobre o projeto.
+- **Figma:** Ferramenta de desenho de tela para compor os elementos de design do site.
+<!-- >- **Draw.io:** Utilizado para fazer o GitFlow. Porque ele é de fácil compreensão. -->
+
+<!-- > **Links Úteis**:
+> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
+> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+>  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
+> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
+> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs) -->
+
+<!-- > **Links Úteis**:
+> - [11 Passos Essenciais para Implantar Scrum no seu 
+> Projeto](https://mindmaster.com.br/scrum-11-passos/)
+> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0) -->
  
 <!-- > **Links Úteis**:
 > - [Project management, made simple](https://github.com/features/project-management/)
 > - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
 > - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
 > - [Tutorial Slack](https://slack.com/intl/en-br/) -->
-
-### Ferramentas
-
-As ferramentas empregadas no projeto são:
-
-- **Visual Studio Code:** Utilizado para criação de códigos, implementação de imagens e o terminal dele trabalhando junto ao Git e GitHub.
-- **Draw.io:** Utilizado para fazer o GitFlow. Porque ele é de fácil compreensão.
-- **Teams:** Usado para encontros com tutor do ensino para sanar dúvidas e para apresentação das atividades.
-- **Discord:** Para os integrandes se comunicarem sobre o projeto.
-- **Figma:** Ferramenta de desenho de tela para compor como será os exemplos do site.
