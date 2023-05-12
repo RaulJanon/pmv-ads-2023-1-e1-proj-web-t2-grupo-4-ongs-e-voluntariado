@@ -1,0 +1,148 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Roboto:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap");
+
+//Variáveis globais
+:root {
+  --lightColor: #d8d8d8;
+  --darkColor: #333;
+  --titleColorDark: #4a4a4a;
+  --titleColorLight: #fdc886;
+  --fontPrimary: "Poppins", sans-serif;
+  --fontSecondary: "Roboto", sans-serif;
+  --smallFontSize: 12px;
+  --mediumFontSize: 14px;
+  --largeFontSize: 16px;
+  --titleFontSize: 20px;
+}
+
+//Reset
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: var(--fontSecondary);
+}
+
+//Utilidades e classes
+.btnLight {
+  padding: 10px 20px;
+  background-color: var(--titleColorLight);
+}
+
+//Decoração
+main {
+  background-image: url(imagens/VetorLateral1.png), url(imagens/decoration2.png);
+  background-repeat: no-repeat, no-repeat;
+  background-size: 150px, 150px;
+  background-position: right -100px, left 250px;
+  // opacity: 0.3;
+  img{
+    margin-bottom: -10px;
+    width: 100%;
+    z-index: -1;
+  }
+}
+// Estilos dos cards com instruções
+
+#instructions {
+  font-family: var(--fontPrimary);
+
+  p {
+    color: var(--titleColorDark);
+    width: 48%;
+    margin: 40px auto 40px auto;
+    text-align: center;
+    font-size: var(--titleFontSize);
+    font-weight: 500;
+
+  }
+
+  #generalContainerOfGreenCards {
+    display: grid;
+    grid-template-columns: 0.28fr 0.28fr;
+    gap: 20px;
+    justify-content: center;
+  }
+
+  .greenCard {
+    background-color: #d9f8f2;
+    color: #017071;
+    padding: 3rem 3rem;
+    height: auto;
+    border-radius: 15px;
+    margin-bottom: 1rem;
+    margin-top: 3rem;
+    box-shadow: 0.8px 0.8px 4px var(--lightColor);
+
+    h2 {
+      font-size: 20px;
+      font-weight: 600;
+      color: #017071;
+      margin-bottom: 2rem;
+      text-align: center;
+    }
+
+    ul {
+      li {
+        font-size: 11px;
+        margin-bottom: 0.5rem;
+        list-style: square;
+        line-height: 1.1rem;
+      }
+    }
+  }
+}
+
+//Estilos do FOOTER
+footer {
+  height: 20rem;
+  background: var(--darkColor);
+  color: var(--lightColor);
+
+  #footerContainer {
+    height: 20rem;
+
+    font-family: var(--fontSecondary);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    #logoFooter {
+      img {
+        width: 180px;
+      }
+    }
+
+    #formFooter {
+      font-size: var(--smallFontSize);
+
+      form {
+        display: flex;
+        flex-direction: column;
+      }
+      #sugestionsFooter {
+        margin-bottom: 1rem;
+
+        h3 {
+          font-size: var(--mediumFontSize);
+          margin-bottom: 5px;
+          color: var(--titleColorLight);
+        }
+
+        p {
+          font-size: var(--smallFontSize);
+        }
+      }
+      input[type="email"] {
+        width: 100%;
+        margin: 3px auto 10px auto;
+      }
+
+      input[type="submit"] {
+        margin: 10px auto 10px auto;
+        width: 100%;
+      }
+    }
+  }
+}
