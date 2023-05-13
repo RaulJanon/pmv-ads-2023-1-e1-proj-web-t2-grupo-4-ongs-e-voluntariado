@@ -19,8 +19,8 @@ A plataforma possui dois tipos centrais de usuário: os voluntários e as ONGs. 
  
 > **CADASTRO**
 <div align="center">
- 
-![image](https://user-images.githubusercontent.com/129805332/233682783-e936f4b4-c739-4ab1-a48c-c0b3f0a1b535.png)
+
+<img width="700" src="img/UserflowCadastro.png">
  
 </div>
 
@@ -33,8 +33,8 @@ O primeiro fluxo desenhado é também o primeiro fluxo executado no uso da aplic
 > **USO PADRÃO VOLUNTÁRIO**
 
 <div align="center">
- 
-![image](https://user-images.githubusercontent.com/129805332/233688006-97b14268-e2a8-4c37-80bc-5ac00b6ae212.png)
+
+<img width="800" src="img/UserflowPadraoVoluntario.png">
  
 </div>
 
@@ -48,7 +48,7 @@ O fluxo de interação do usuário voluntário inclui a busca por vagas de volun
  
 <div align="center">
  
-![image](https://user-images.githubusercontent.com/129805332/233688306-35190e2b-66a5-4a86-a107-82ee1292fc8a.png)
+<img width="800" src="img/UserflowPadraoONG.png">
  
  </div>
 
@@ -62,29 +62,27 @@ Já o fluxo de interação do usuário inclui a busca por voluntários, assim co
 
 A seguir, estão descritas as páginas da aplicação.
 
->**Home** 
+>**TELA 01 - Homepage** 
 
 <div align="center"> 
 
-![HomePage](https://user-images.githubusercontent.com/19398297/233782698-420826b0-7c0f-425f-a395-97b4b4a31034.png)
+<img width="300" src="https://user-images.githubusercontent.com/19398297/233782698-420826b0-7c0f-425f-a395-97b4b4a31034.png">
 
- 
 </div> 
 
 <div align="justify">
  
-A Home Page é a página que conterá a apresentação inicial do sistema para os usuários, tanto voluntários, quanto ONGs. O objetivo é que seja suscinta e simples, de modo que o usuário consiga facilmente entender do que se trata o site e se cadastrar utilizando, inicialmente, apenas um email e senha.
+A Homepage é a página que conterá a apresentação inicial do sistema para os usuários, tanto voluntários, quanto ONGs. O objetivo é que seja suscinta e simples, de modo que o usuário consiga facilmente entender do que se trata o site e se cadastrar utilizando, inicialmente, apenas um email e senha.
  
 </div>
 
 
->**Login**
+>**TELA 02 - Login**
 
 <div align="center">
 
-![Login](https://user-images.githubusercontent.com/19398297/233782905-56122e03-21c7-4447-91b1-78fe3bea832f.png)
+<img width="450" src="https://user-images.githubusercontent.com/19398297/233782905-56122e03-21c7-4447-91b1-78fe3bea832f.png">
  
-
 </div>
 <div align="justify">
  
@@ -93,11 +91,11 @@ Na página Login, o usuário precisará autenticar através de senha o seu acess
 </div>
 
 
->**Formulário Detalhado Para ONGs**
+>**TELA 03 - Formulário Cadastro ONG**
 
 <div align="center">
- 
- ![DetailForm ONGs](https://user-images.githubusercontent.com/19398297/233783321-55ac401d-5771-4628-af5e-30774f302485.png)
+
+<img width="300" src="https://user-images.githubusercontent.com/19398297/233783321-55ac401d-5771-4628-af5e-30774f302485.png">
 
 </div>
 
@@ -108,11 +106,11 @@ O formulário detalhado para as ONGs é a página responsável pelo cadastro das
 </div>
 
 
->**Formulário Detalhado Para Voluntários**
+>**TELA 04 - Formulário Cadastro Voluntário**
 
 <div align="center">
- 
- ![DetailForm Voluntarios](https://user-images.githubusercontent.com/19398297/233783334-07e34ce4-e58a-4a7b-949b-648c3d70994d.png)
+
+<img width="300" src="https://user-images.githubusercontent.com/19398297/233783334-07e34ce4-e58a-4a7b-949b-648c3d70994d.png">
  
 </div>
 
@@ -123,56 +121,11 @@ Do mesmo modo, o formulário detalhado para voluntários é a página onde o vol
 </div>
 
 
->**Perfil de ONG**
+>**TELA 05 - Feed**
 
 <div align="center">
 
-![OngProfile](https://user-images.githubusercontent.com/19398297/233784303-bf8aca8e-b4e3-4029-be78-a479a6f5230f.png)
-            
-</div>
-
-<div align="justify">
- 
-A página de Perfil de ONG será onde todas as ações das ONGs poderão ser postadas de modo a divulgar sua atuação. Também é onde poderá se encontrar as informações sobre a ONG. O perfil da ONG será sua principal ferramenta de divulgação.
- 
-</div>
-
-
->**Perfil de Voluntário**
-
-<div align="center"> 
-
-![VolunteerProfile](https://user-images.githubusercontent.com/19398297/233787332-a2db89f2-02f9-4345-a9d2-357c375e453e.png)
- 
-</div>
-
-<div align="justify">
- 
-A página Perfil de Voluntário é onde todos os posts de divulgação das ações do voluntário poderão ser postados, e é onde também haverão algumas informações como, por exemplo, a bio do voluntário e seu currículo.
- 
-</div>
-
-
->**Currículo de Voluntários**
-
-<div align="center">
- 
- ![CV](https://user-images.githubusercontent.com/19398297/233783394-abee6eb7-be41-4e2d-8def-6f584a938ebf.png)
-
-</div>
-
-<div align="justify">
- 
-É a página que detalha as qualificações e aptidões dos voluntários, assim também como suas experiências de modo a deixar claro suas informações para que sejam pesquisadas por ONGs que estejam selecionando mão de obra.
- 
-</div>
-
-
->**Feed**
-
-<div align="center">
- 
-![Feed](https://user-images.githubusercontent.com/19398297/233782775-ab63453f-5b2b-4ac2-86db-fb191f48d0c0.png)
+<img width="300" src="https://user-images.githubusercontent.com/19398297/233782775-ab63453f-5b2b-4ac2-86db-fb191f48d0c0.png">
 
 </div>
 
@@ -183,11 +136,71 @@ Na página Feed, todos os post, tanto de voluntários, quanto de ONGs, podem ser
 </div>
 
 
->**Lista de Vagas**
+>**TELA 06 - Perfil ONG**
 
 <div align="center">
+
+<img width="300" src="https://user-images.githubusercontent.com/19398297/233784303-bf8aca8e-b4e3-4029-be78-a479a6f5230f.png">
+            
+</div>
+
+<div align="justify">
  
-![JobsList](https://user-images.githubusercontent.com/19398297/233782537-4d56aaeb-27a9-454d-9c73-f62d8dad880e.png)
+A página de Perfil de ONG será onde todas as ações das ONGs poderão ser postadas de modo a divulgar sua atuação. Também é onde poderá se encontrar as informações sobre a ONG. O perfil da ONG será sua principal ferramenta de divulgação.
+ 
+</div>
+
+
+>**TELA 07 - Perfil Voluntário**
+
+<div align="center"> 
+
+<img width="300" src="https://user-images.githubusercontent.com/19398297/233787332-a2db89f2-02f9-4345-a9d2-357c375e453e.png">
+ 
+</div>
+
+<div align="justify">
+ 
+A página Perfil de Voluntário é onde todos os posts de divulgação das ações do voluntário poderão ser postados, e é onde também haverão algumas informações como, por exemplo, a bio do voluntário e seu currículo.
+ 
+</div>
+
+
+>**TELA 08 - Currículo Voluntário**
+
+<div align="center">
+
+<img width="300" src="https://user-images.githubusercontent.com/19398297/233783394-abee6eb7-be41-4e2d-8def-6f584a938ebf.png">
+
+</div>
+
+<div align="justify">
+ 
+É a página que detalha as qualificações e aptidões dos voluntários, assim também como suas experiências de modo a deixar claro suas informações para que sejam pesquisadas por ONGs que estejam selecionando mão de obra.
+ 
+</div>
+
+
+>**TELA 09 - CRUD Anúncios de Vagas**
+
+<div align="center">
+
+<img width="300" src="https://user-images.githubusercontent.com/19398297/233783200-f6fcd588-3bc5-4932-919a-bac6b845011c.png">
+
+</div>
+
+<div align="justify">
+ 
+A página CRUD para anúncios de vagas possibilitará para as ONGs a criação e a edição de seus anúncios de vagas.É a página onde serão cadastradas as vagas de voluntariado disponíveis.
+ 
+</div>
+
+
+>**TELA 10 - Lista de Vagas**
+
+<div align="center">
+
+<img width="300" src="https://user-images.githubusercontent.com/19398297/233782537-4d56aaeb-27a9-454d-9c73-f62d8dad880e.png">
 
 </div>
 
@@ -198,25 +211,11 @@ Após o cadastro das vagas de voluntariado disponíveis, as mesmas ficarão disp
 </div>
 
 
->**CRUD Para Anúncios de Vagas**
+>**TELA 11 - Dashboard ONG**
 
 <div align="center">
 
-![ListaAnunciosCRUD](https://user-images.githubusercontent.com/19398297/233783200-f6fcd588-3bc5-4932-919a-bac6b845011c.png)
-
-</div>
-
-<div align="justify">
- 
-A página CRUD para anúncios de vagas possibilitará para as ONGs a criação e a edição de seus anúncios de vagas.É a página onde serão cadastradas as vagas de voluntariado disponíveis.
- 
-</div>
-
->**Dashboard Para ONGs**
-
-<div align="center">
- 
-![DashbooardONGs](https://user-images.githubusercontent.com/19398297/233784588-7508cd8d-d971-4a69-8e71-11211395873c.png)
+<img width="300" src="https://user-images.githubusercontent.com/19398297/233784588-7508cd8d-d971-4a69-8e71-11211395873c.png">
 
 </div>
 
@@ -227,11 +226,11 @@ O Dashboard para ONGs é a página que fornecerá os dados de gestão de equipes
 </div>
 
 
->**Dashboard para Voluntários**
+>**TELA 12 - Dashboard Voluntário**
 
 <div align="center">
- 
-![DashbooardVoluntarios](https://user-images.githubusercontent.com/19398297/233784591-0df3334c-a813-4457-b877-8c7ba716d8ca.png)
+
+<img width="300" src="https://user-images.githubusercontent.com/19398297/233784591-0df3334c-a813-4457-b877-8c7ba716d8ca.png">
  
 </div>
 
@@ -242,11 +241,11 @@ O Dashboard para voluntários é a página onde constarão as atividades demanda
 </div>
 
 
->**Lista de Amigo/Chat**
+>**TELA 13 - Lista de Amigos/Chat**
 
 <div align="center">
- 
-![chat](https://user-images.githubusercontent.com/19398297/233784972-2cae57e9-6f2b-4bce-a489-cc66310c8151.png)
+
+<img width="300" src="https://user-images.githubusercontent.com/19398297/233784972-2cae57e9-6f2b-4bce-a489-cc66310c8151.png">
  
 </div>
 
