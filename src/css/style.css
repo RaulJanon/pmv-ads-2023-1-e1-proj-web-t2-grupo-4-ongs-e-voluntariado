@@ -20,6 +20,7 @@
   --mediumFontSize: 14px;
   --largeFontSize: 16px;
   --titleFontSize: 20px;
+  --textCallsWeight: 600;
 }
 
 /* INÍCIO PARTE SUPERIOR /*
@@ -231,14 +232,14 @@ input[type="text"],
 }
 
 /* Inicio parte central homepage */
-body {
+/* body {
   margin: 0%;
-  padding: 0%;
-}
+  padding: 0;
+} */
 
 .container-superior {
   position: relative;
-  bottom: 0em;
+  /* bottom: 0em; */
   text-align: center;
   margin: 0 auto;
 }
@@ -375,8 +376,7 @@ p {
 
 /* imagens de decoração do background */
 #bottomPlace {
-  background-image: url(../imagens/vetorInferior1.png),
-    url(../imagens/decoracaoTerra.png);
+  background-image: url(img);
   background-repeat: no-repeat, no-repeat;
   background-size: 150px, 150px;
   background-position: right -100px, left 250px;
@@ -415,7 +415,7 @@ p {
 }
 #instructions .greenCard h2 {
   font-size: 20px;
-  font-weight: 600;
+  font-weight: var(--textCallsWeight);
   color: #017071;
   margin-bottom: 2rem;
   text-align: center;
