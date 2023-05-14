@@ -291,6 +291,7 @@ p {
   color: var(--titleColorLight);
 }
 
+/* imagens de decoração do background */
 #bottomPlace {
   background-image: url(../imagens/vetorInferior1.png),
     url(../imagens/decoracaoTerra.png);
@@ -309,10 +310,10 @@ p {
 #instructions p {
   color: var(--titleColorDark);
   width: 48%;
-  margin: 40px auto 40px auto;
+  margin: 550px auto 50px auto;
   text-align: center;
   font-size: var(--titleFontSize);
-  font-weight: 500;
+  font-weight: 600;
 }
 #instructions #generalContainerOfGreenCards {
   display: grid;
@@ -326,8 +327,8 @@ p {
   padding: 3rem 3rem;
   height: auto;
   border-radius: 15px;
-  margin-bottom: 1rem;
-  margin-top: 30rem;
+  /* margin-bottom: 1rem; */
+  margin-top: 1rem;
   box-shadow: 0.8px 0.8px 4px var(--lightColor);
 }
 #instructions .greenCard h2 {
@@ -343,8 +344,14 @@ p {
   list-style: square;
   line-height: 1.1rem;
 }
-#bottomPlace #decFooter {
+/* #bottomPlace #decFooter {
   opacity: 0.2;
+  width: 100vw;
+} */
+
+#decFooter img {
+  opacity: 0.5;
+  width: 100%;
 }
 footer {
   height: 20rem;
