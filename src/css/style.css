@@ -376,7 +376,8 @@ p {
 
 /* imagens de decoração do background */
 #bottomPlace {
-  background-image: url(img);
+  background-image: url(../img/VetorLateral1ParteInferior.png),
+    url(../img/decoration2.png);
   background-repeat: no-repeat, no-repeat;
   background-size: 150px, 150px;
   background-position: right -100px, left 250px;
