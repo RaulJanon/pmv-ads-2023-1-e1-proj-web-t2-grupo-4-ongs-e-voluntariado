@@ -250,7 +250,7 @@ input[type="text"],
   padding: 0px;
   margin: 0px;
   opacity: 60%;
-  background-size: 360px;
+  background-size: 300px;
   background-position: left 0px;
 }
 
@@ -268,20 +268,19 @@ input[type="text"],
   z-index: 0;
   display: grid;
   justify-content: right;
-  font-weight: 900;
 }
 
 p {
   text-align: center;
   font-family: sans-serif;
-  font-size: 15px;
+  font-size: 20px;
   word-spacing: 1px;
   font-family: sans-serif;
 }
 
 .card {
   /* alinhamento dos card */
-  margin-bottom: 200px;
+  margin-bottom: 250px;
   display: flex;
   position: relative;
   bottom: 0em;
@@ -290,7 +289,7 @@ p {
   padding: 0em;
   flex-wrap: wrap;
   flex-direction: row;
-  align-content: space-between;
+  align-content: space-between;  
 }
 
 .card-item {
@@ -300,7 +299,7 @@ p {
   align-items: center;
   text-align: center;
   background-color: #cabdff;
-  width: 380px;
+  width: 550px;
   transition: 0.5s;
   border-radius: 14px;
   padding: 100px;
