@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anúncios de vagas para voluntários</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <img src="img/logo.svg" alt="logotipo ponte.com"> 
+            <form class="form" action="/search" method="get">
+                <label class="label" for="search"></label>
+                <input class="input" type="search" id="search" name="q" placeholder="Procure vagas, instituições, pessoas...">
+                <button class="button" type="submit">Buscar</button>
+            </form>
+                <img src="img/perfil.png" alt="foto de perfil do usuário">
+        </div>
+        <div class="main-title">
+            <h1>Cadastrar anúncio:</h1>
+        </div>
+        <div class="form-container">
+            <form>
+                <div class="box-input">
+                    <label for="title">Título:</label> <br>
+                    <input 
+                    type="text" 
+                    name="title" 
+                    id="title" 
+                    class="block" 
+                    minlength="1" 
+                    maxlength="30">
+                </div>
+                <div class="box-input">
+                    <label for="prince">Local de atuação:</label> <br>
+                    <input 
+                    type="text" 
+                    id="local" 
+                    name="local" 
+                    class="block">
+                </div>
+                <div class="box-input">
+                    <label for="title">Cargo de ocupação:</label> <br>
+                    <input 
+                    type="text" 
+                    name="office" 
+                    id="office" 
+                    class="block" 
+                    minlength="1" 
+                    maxlength="30">
+                </div>  
+                <div class="box-input">
+                    <label for="title">Turno:</label> <br>
+                    <input 
+                    type="text" 
+                    name="shift" 
+                    id="shift" 
+                    class="block" 
+                    minlength="1" 
+                    maxlength="30">
+                </div> 
+                <div class="box-input">
+                    <label for="acting-date">Período de atuação:</label><br>
+                    De:
+                    <input
+                    type="date" 
+                    name="start-date" 
+                    id="start-date" 
+                    class="block-date">
+                    Até:
+                    <input 
+                    type="date" 
+                    name="end-date" 
+                    id="end-date" 
+                    class="block-date">
+                </div> 
+                <div class="box-input">
+                    <label for="description">Descrição da vaga:</label><br>
+                    <textarea 
+                    name="description" 
+                    id="description" 
+                    class="block" 
+                    cols="30" 
+                    rows="10"
+                    required
+                    placeholder="Descreva seu veículo">
+                    </textarea>
+                </div>
+                <input type="submit" class="btn-submit-0" value="Limpar">
+                <input type="submit" class="btn-submit-1" value="Salvar">
+            </form>
+        </div>
+        <div class="adverts">
+            <h2 class="title-2"><u>Meus anúncios</u></h2>
+            <h3>Anúncio 1</h3>
+            <p><b>Local:</b> da atuação</p>
+            <p><b>Cargo:</b> cargo de atuação</p>
+            <p><b>Turno:</b> turno da atividade</p>
+            <p><b>Período:</b> d/m/a até d/m/a</p>
+            <p><b>Descrição:</b> Lorem ipsum dolor sit amet. Id dolorem laborum ut obcaecati veritatis est autem facere hic reiciendis asperiores. Ut commodi neque est quibusdam sint qui voluptas architecto ut numquam ducimus. Quo reiciendis sint qui internos fuga vel nobis delectus. Eum quae dolorum aut omnis obcaecati qui laudantium mollitia.</p>
+            <input type="submit" class="btn-submit-edit" value="Editar">
+            <input type="submit" class="btn-submit-delete" value="Excluir">
+            <hr>
+            <h3>Anúncio 2</h3>
+            <p><b>Local:</b> da atuação</p>
+            <p><b>Cargo:</b> cargo de atuação</p>
+            <p><b>Turno:</b> turno da atividade</p>
+            <p><b>Período:</b> d/m/a até d/m/a</p>
+            <p><b>Descrição:</b> Lorem ipsum dolor sit amet. Id dolorem laborum ut obcaecati veritatis est autem facere hic reiciendis asperiores. Ut commodi neque est quibusdam sint qui voluptas architecto ut numquam ducimus. Quo reiciendis sint qui internos fuga vel nobis delectus. Eum quae dolorum aut omnis obcaecati qui laudantium mollitia.</p>
+            <input type="submit" class="btn-submit-edit" value="Editar">
+            <input type="submit" class="btn-submit-delete" value="Excluir">
+        </div>          
+</body>
+</html>
