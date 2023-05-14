@@ -317,7 +317,7 @@ p {
   background-color: #8b73eb;
 }
 
-@media (max-width: 720px) {
+/* @media (max-width: 720px) {
   body,
   html {
     width: 100%;
@@ -355,7 +355,7 @@ p {
   .card {
     height: 70em;
   }
-}
+} */
 /* Fim parte central homepage */
 
 /* <!-- ================================================================================= -->
