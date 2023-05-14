@@ -1,11 +1,11 @@
 
 # Projeto de Interface
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+<span style="color:red">Pré-requisitos: <a href="02-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
 <div align="justify">
  
-A interface da aplicação foi projetada a partir das histórias de usuários, de forma a atender os requisitos funcionais e não funcionais abordados na <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
+A interface da aplicação foi projetada a partir das histórias de usuários, de forma a atender os requisitos funcionais e não funcionais abordados na <a href="02-Especificação do Projeto.md"> Documentação de Especificação</a>.
  
 </div>
 
