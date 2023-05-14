@@ -1,5 +1,42 @@
 # Plano de Testes de Software
 
+Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
+
+<table>
+  <tr>
+    <th>Caso de Teste</th>
+    <th style="background-color: yellow">Verificar se os campos foram preenchidos e se usuário existe no
+ sistema para realizar 0 login.
+</th>
+  </tr>
+  <tr>
+    <td>Requisitos Associados</td>
+    <td style="background-color: yellow">Orange</td>
+  </tr>
+  <tr>
+    <td>Requisitos Associados</td>
+    <td style="background-color: yellow">......</td>
+  </tr>
+ <tr>
+    <td>Objetivo do Teste</td>
+    <td style="background-color: yellow">Restringir para que somente usuários que possuam conta na
+ aplicação consigam acessá-la.</td>
+  </tr>
+ <tr>
+    <td>Passos</td>
+    <td style="background-color: yellow">1. Acessar a tela de login <p> 2. Preenche os campos e realizar o login.
+</td>
+  </tr>
+ <tr>
+    <td>Critérios de Êxito</td>
+    <td style="background-color: yellow"> Somente usuários cadastrados na aplicação conseguem realizar o login.
+</td>
+  </tr>
+</table>
+
+
+
+
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
 
 Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
