@@ -253,7 +253,7 @@ input[type="text"],
   background-position: left 0px;
 }
 
-.texto-superior{
+.texto-superior {
   font-size: 20px;
   position: relative;
   z-index: 1;
@@ -426,15 +426,11 @@ p {
   text-align: center;
 }
 #instructions .greenCard ul li {
-  font-size: 11px;
+  font-size: 12px;
   margin-bottom: 0.5rem;
   list-style: square;
   line-height: 1.1rem;
 }
-/* #bottomPlace #decFooter {
-  opacity: 0.2;
-  width: 100vw;
-} */
 
 #decFooter img {
   opacity: 0.5;
