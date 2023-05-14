@@ -231,17 +231,17 @@ input[type="text"],
   margin: 20px;
 }
 
-    /* <!-- ================================================================================= -->
+/* <!-- ================================================================================= -->
     <!-- ================================================================================= -->
     <!-- ================================================================================= --> */
 
-    /* Inicio parte central homepage Jefferson e Leandro*/
+/* Inicio parte central homepage Jefferson e Leandro*/
 
 .container-superior {
   position: relative;
   /* bottom: 0em; */
   text-align: center;
-  margin: 0 auto;  
+  margin: 0 auto;
 }
 
 .parte-superior {
@@ -289,7 +289,7 @@ p {
   padding: 0em;
   flex-wrap: nowrap;
   flex-direction: row;
-  align-content: space-between;  
+  align-content: space-between;
 }
 
 .card-item {
@@ -306,7 +306,7 @@ p {
 }
 
 .card-item img {
-  margin-bottom: 50px;  
+  margin-bottom: 50px;
 }
 
 .card-item:nth-child(2) {
@@ -395,7 +395,7 @@ p {
 #instructions p {
   color: var(--titleColorDark);
   width: 48%;
-  margin: 100px auto 50px auto;
+  margin: 20px auto 50px auto;
   text-align: center;
   font-size: var(--titleFontSize);
   font-weight: 600;
@@ -474,6 +474,14 @@ footer #footerContainer #formFooter #sugestionsFooter p {
 footer #footerContainer #formFooter input[type="email"] {
   width: 100%;
   margin: 3px auto 10px auto;
+}
+/* footer #footerContainer #formFooter input[type="textarea"] {
+  height: 100px;
+  text-align: initial;
+} */
+
+footer #footerContainer #formFooter textarea {
+  text-align: start;
 }
 footer #footerContainer #formFooter input[type="submit"] {
   margin: 10px auto 10px auto;
