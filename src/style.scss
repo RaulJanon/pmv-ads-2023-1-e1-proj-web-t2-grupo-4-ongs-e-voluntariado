@@ -30,6 +30,10 @@
   background-color: var(--titleColorLight);
 }
 
+// .primaryText{
+//   color: var(--titleColorLight);
+// }
+
 //Decoração
 main {
 
@@ -38,11 +42,10 @@ main {
   background-size: 150px, 150px;
   background-position: right -100px, left 250px;
 
-  #decFooter{
+  img{
     margin-bottom: -10px;
     width: 100%;
-    z-index: -1;
-    // opacity: 0.5;
+
   }
 }
 

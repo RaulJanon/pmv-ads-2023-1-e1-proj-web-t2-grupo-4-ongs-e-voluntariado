@@ -31,10 +31,9 @@ main {
   background-size: 150px, 150px;
   background-position: right -100px, left 250px;
 }
-main #decFooter {
+main img {
   margin-bottom: -10px;
   width: 100%;
-  z-index: -1;
 }
 
 #instructions {
