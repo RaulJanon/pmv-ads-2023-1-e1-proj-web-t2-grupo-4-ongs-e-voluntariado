@@ -30,17 +30,19 @@
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+  margin-bottom: 1em;
 }
 
 .wrapper img {
-  width: 180px;
-  margin-left: 60px;
+  width: 13%;
+  margin-left: 4em;
 }
 
 .wrapper .wrapper-navbar {
   display: flex;
   flex-direction: row;
-  margin-right: 50px;
+  margin-top: 2em;
+  margin-right: 4em;
   list-style: none;
   font-family: Roboto;
   color: #4a4a4a;
@@ -49,12 +51,12 @@
 
 .wrapper .wrapper-navbar .wrapper-button-active {
   background-color: #fdc886;
-  padding: 8px;
+  padding: 0.5em;
   border-radius: 5px;
 }
 
 .wrapper .wrapper-navbar .wrapper-li {
-  margin-left: 30px;
+  margin-left: 2em;
   margin-top: 8px;
 }
 
@@ -65,6 +67,86 @@
 .wrapper .wrapper-navbar .wrapper-li:hover {
   background: white;
   color: #fdc886;
+}
+
+/* CONTENT CSS */
+.container {
+  display: flex;
+  flex-direction: row;
+  margin-left: 0em;
+}
+
+.container .container-image {
+  display: flex;
+  flex-direction: column;
+  width: 55%;
+}
+
+.container .container-image h1 {
+  text-align: center;
+  font-family: Poppins;
+  font-weight: Medium;
+  font-size: 36px;
+  color: #4a4a4a;
+  margin-bottom: -1em;
+}
+
+.container .container-card {
+  display: flex;
+  flex-direction: column;
+  width: 45%;
+  margin: 6em 4em 8em 13em;
+  padding: 0.5em;
+  border: 1px solid #4a4a4a;
+  border-radius: 30px;
+  text-align: center;
+}
+
+.container .container-card h1 {
+  font-family: Poppins;
+  font-weight: Medium;
+  color: #4a4a4a;
+  font-size: 25px;
+  margin-bottom: 2em;
+}
+
+.container .container-card .container-content {
+  display: flex;
+  flex-direction: column;
+  font-family: Roboto;
+  font-weight: Medium;
+  font-size: 18px;
+  color: #4a4a4a;
+}
+
+input[type="text"],
+[type="password"] {
+  border: 1px solid #4a4a4a;
+  border-radius: 8px;
+  margin-bottom: 2em;
+}
+
+.container .container-card .container-content button {
+  font-family: Roboto;
+  font-weight: Medium;
+  font-size: 15px;
+  font-family: Roboto;
+  font-weight: Bold;
+  font-size: 15px;
+  background: #fdc886;
+  color: #4a4a4a;
+  border: none;
+  border-radius: 8px;
+  margin-top: 1.5em;
+}
+
+.container .container-card .container-content button:hover {
+  color: black;
+}
+
+/* UTILS CLASSNAMES */
+.margin-flexbox {
+  margin: 2em;
 }
 
 /* CONTENT CSS */
