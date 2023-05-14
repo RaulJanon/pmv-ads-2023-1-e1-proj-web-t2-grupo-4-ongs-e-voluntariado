@@ -1,143 +1,158 @@
+/* fontes e variáveis da parte Ademir e Thiago*/
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Roboto:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap");
+:root {
+  --lightColor: #d8d8d8;
+  --darkColor: #333;
+  --titleColorDark: #4a4a4a;
+  --titleColorLight: #fdc886;
+  --fontPrimary: "Poppins", sans-serif;
+  --fontSecondary: "Roboto", sans-serif;
+  --smallFontSize: 12px;
+  --mediumFontSize: 14px;
+  --largeFontSize: 16px;
+  --titleFontSize: 20px;
+}
+
 /* INÍCIO PARTE SUPERIOR /*
 
 /* HEADER CSS */
 .wrapper {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-  }
-  
-  .wrapper img {
-    width: 180px;
-    margin-left: 60px;
-  }
-  
-  .wrapper .wrapper-navbar {
-    display: flex;
-    flex-direction: row;
-    margin-right: 50px;
-    list-style: none;
-    font-family: Roboto;
-    color: #4a4a4a;
-    font-size: 18px;
-  }
-  
-  .wrapper .wrapper-navbar .wrapper-button-active {
-    background-color: #fdc886;
-    padding: 8px;
-    border-radius: 5px;
-  }
-  
-  .wrapper .wrapper-navbar .wrapper-li {
-    margin-left: 30px;
-    margin-top: 8px;
-  }
-  
-  .wrapper .wrapper-navbar .wrapper-button-active:hover {
-    color: black;
-  }
-  
-  .wrapper .wrapper-navbar .wrapper-li:hover {
-    background: white;
-    color: #fdc886;
-  }
-  
-  /* CONTENT CSS */
-  .container {
-    display: flex;
-    flex-direction: row;
-    margin-top: 0px;
-  }
-  
-  .container .container-image {
-    display: flex;
-    flex-direction: column;
-    width: 55%;
-    margin-left: -32px;
-  }
-  
-  .container .container-image h1 {
-    text-align: center;
-    font-family: Poppins;
-    font-weight: Medium;
-    font-size: 36px;
-    color: #4a4a4a;
-    margin-bottom: -30px;
-  }
-  
-  .container .container-card {
-    display: flex;
-    flex-direction: column;
-    width: 45%;
-    margin: 100px 70px 50px 250px;
-    padding: 20px;
-    border: 1px solid #4a4a4a;
-    border-radius: 30px;
-    text-align: center;
-  }
-  
-  .container .container-card h1 {
-    font-family: Poppins;
-    font-weight: Medium;
-    color: #4a4a4a;
-    font-size: 25px;
-    margin-bottom: 40px;
-  }
-  
-  .container .container-card .container-content {
-    display: flex;
-    flex-direction: column;
-    font-family: Roboto;
-    font-weight: Medium;
-    font-size: 18px;
-    color: #4a4a4a;
-  }
-  
-  input[type="text"],
-  [type="password"] {
-    border: 1px solid #4a4a4a;
-    border-radius: 8px;
-    margin-bottom: 20px;
-  }
-  
-  .container .container-card .container-content button {
-    font-family: Roboto;
-    font-weight: Medium;
-    font-size: 15px;
-    font-family: Roboto;
-    font-weight: Bold;
-    font-size: 15px;
-    background: #fdc886;
-    color: #4a4a4a;
-    border: none;
-    border-radius: 8px;
-    margin-top: 20px;
-  }
-  
-  .container .container-card .container-content button:hover {
-    color: black;
-  }
-  
-  /* UTILS CLASSNAMES */
-  .margin-flexbox {
-    margin: 20px;
-  }
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
 
-  /* Inicio parte central homepage */
-body{ 
+.wrapper img {
+  width: 180px;
+  margin-left: 60px;
+}
+
+.wrapper .wrapper-navbar {
+  display: flex;
+  flex-direction: row;
+  margin-right: 50px;
+  list-style: none;
+  font-family: Roboto;
+  color: #4a4a4a;
+  font-size: 18px;
+}
+
+.wrapper .wrapper-navbar .wrapper-button-active {
+  background-color: #fdc886;
+  padding: 8px;
+  border-radius: 5px;
+}
+
+.wrapper .wrapper-navbar .wrapper-li {
+  margin-left: 30px;
+  margin-top: 8px;
+}
+
+.wrapper .wrapper-navbar .wrapper-button-active:hover {
+  color: black;
+}
+
+.wrapper .wrapper-navbar .wrapper-li:hover {
+  background: white;
+  color: #fdc886;
+}
+
+/* CONTENT CSS */
+.container {
+  display: flex;
+  flex-direction: row;
+  margin-top: 0px;
+}
+
+.container .container-image {
+  display: flex;
+  flex-direction: column;
+  width: 55%;
+  margin-left: -32px;
+}
+
+.container .container-image h1 {
+  text-align: center;
+  font-family: Poppins;
+  font-weight: Medium;
+  font-size: 36px;
+  color: #4a4a4a;
+  margin-bottom: -30px;
+}
+
+.container .container-card {
+  display: flex;
+  flex-direction: column;
+  width: 45%;
+  margin: 100px 70px 50px 250px;
+  padding: 20px;
+  border: 1px solid #4a4a4a;
+  border-radius: 30px;
+  text-align: center;
+}
+
+.container .container-card h1 {
+  font-family: Poppins;
+  font-weight: Medium;
+  color: #4a4a4a;
+  font-size: 25px;
+  margin-bottom: 40px;
+}
+
+.container .container-card .container-content {
+  display: flex;
+  flex-direction: column;
+  font-family: Roboto;
+  font-weight: Medium;
+  font-size: 18px;
+  color: #4a4a4a;
+}
+
+input[type="text"],
+[type="password"] {
+  border: 1px solid #4a4a4a;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.container .container-card .container-content button {
+  font-family: Roboto;
+  font-weight: Medium;
+  font-size: 15px;
+  font-family: Roboto;
+  font-weight: Bold;
+  font-size: 15px;
+  background: #fdc886;
+  color: #4a4a4a;
+  border: none;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+
+.container .container-card .container-content button:hover {
+  color: black;
+}
+
+/* UTILS CLASSNAMES */
+.margin-flexbox {
+  margin: 20px;
+}
+
+/* Inicio parte central homepage */
+body {
   margin: 0%;
   padding: 0%;
 }
 
-.container-superior{
+.container-superior {
   position: relative;
   bottom: 0em;
   text-align: center;
   margin: 0 auto;
 }
 
-.parte-superior{
+.parte-superior {
   background-image: url(../img/VetorLateral1\ ParteSuperior.png);
   background-repeat: no-repeat;
   padding: 0px;
@@ -147,7 +162,7 @@ body{
   background-position: left 0px;
 }
 
-.texto-superior{
+.texto-superior {
   font-size: 36px;
   position: relative;
   z-index: 1;
@@ -156,14 +171,14 @@ body{
   font-family: "Poppins", sans-serif;
 }
 
-.container-superior .img-right{
+.container-superior .img-right {
   opacity: 90%;
   z-index: 0;
   display: grid;
   justify-content: right;
 }
 
-p{
+p {
   text-align: center;
   font-family: sans-serif;
   font-size: 15px;
@@ -171,19 +186,20 @@ p{
   font-family: sans-serif;
 }
 
-.card{  /* alinhamento dos card */
+.card {
+  /* alinhamento dos card */
   display: flex;
   position: relative;
   bottom: 0em;
-  justify-content: space-around; 
-  height: 350px;  
+  justify-content: space-around;
+  height: 350px;
   padding: 0em;
   flex-wrap: wrap;
   flex-direction: row;
-  align-content: space-between;  
+  align-content: space-between;
 }
 
-.card-item{
+.card-item {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -193,56 +209,173 @@ p{
   width: 380px;
   transition: 0.5s;
   border-radius: 14px;
-  padding: 100px;  
+  padding: 100px;
 }
 
-.card-item img{
+.card-item img {
   margin-bottom: 80px;
 }
 
-.card-item:nth-child(2){
-  background-color: #B6A4FF;
-
+.card-item:nth-child(2) {
+  background-color: #b6a4ff;
 }
 
-.section .card-item:hover{
+.section .card-item:hover {
   background-color: #8b73eb;
 }
 
-@media (max-width: 720px){
-  body, html{
-      width: 100%;
-      align-items: center;
+@media (max-width: 720px) {
+  body,
+  html {
+    width: 100%;
+    align-items: center;
   }
 
-  .img-right{
-      display: none;
+  .img-right {
+    display: none;
   }
 
-  .card{
-      height: 70em;
-  }
-}
-
-@media (max-width: 414px){
-  body, html{
-      width: 100%;
-      align-items: center;
-  }
-
-  .card{
-      height: 70em;
+  .card {
+    height: 70em;
   }
 }
 
-@media (max-width: 320px){
-  body, html{
-      width: 100%;
-      align-items: center;
+@media (max-width: 414px) {
+  body,
+  html {
+    width: 100%;
+    align-items: center;
   }
 
-  .card{
-      height: 70em;
+  .card {
+    height: 70em;
+  }
+}
+
+@media (max-width: 320px) {
+  body,
+  html {
+    width: 100%;
+    align-items: center;
+  }
+
+  .card {
+    height: 70em;
   }
 }
 /* Fim parte central homepage */
+
+/* estilos da parte de baixo da homepage Ademir e Thiago */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: var(--fontSecondary);
+}
+
+.btnLight {
+  padding: 10px 20px;
+  background-color: var(--titleColorLight);
+}
+
+.primaryText {
+  color: var(--titleColorLight);
+}
+
+#bottomPlace {
+  background-image: url(../imagens/vetorInferior1.png),
+    url(../imagens/decoracaoTerra.png);
+  background-repeat: no-repeat, no-repeat;
+  background-size: 150px, 150px;
+  background-position: right -100px, left 250px;
+}
+#bottomPlace img {
+  margin-bottom: -10px;
+  width: 100%;
+}
+
+#instructions {
+  font-family: var(--fontPrimary);
+}
+#instructions p {
+  color: var(--titleColorDark);
+  width: 48%;
+  margin: 40px auto 40px auto;
+  text-align: center;
+  font-size: var(--titleFontSize);
+  font-weight: 500;
+}
+#instructions #generalContainerOfGreenCards {
+  display: grid;
+  grid-template-columns: 0.28fr 0.28fr;
+  gap: 20px;
+  justify-content: center;
+}
+#instructions .greenCard {
+  background-color: #d9f8f2;
+  color: #017071;
+  padding: 3rem 3rem;
+  height: auto;
+  border-radius: 15px;
+  margin-bottom: 1rem;
+  margin-top: 30rem;
+  box-shadow: 0.8px 0.8px 4px var(--lightColor);
+}
+#instructions .greenCard h2 {
+  font-size: 20px;
+  font-weight: 600;
+  color: #017071;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+#instructions .greenCard ul li {
+  font-size: 11px;
+  margin-bottom: 0.5rem;
+  list-style: square;
+  line-height: 1.1rem;
+}
+#bottomPlace #decFooter {
+  opacity: 0.2;
+}
+footer {
+  height: 20rem;
+  background: var(--darkColor);
+  color: var(--lightColor);
+}
+footer #footerContainer {
+  height: 20rem;
+  font-family: var(--fontSecondary);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+footer #footerContainer #logoFooter img {
+  width: 180px;
+}
+footer #footerContainer #formFooter {
+  font-size: var(--smallFontSize);
+}
+footer #footerContainer #formFooter form {
+  display: flex;
+  flex-direction: column;
+}
+footer #footerContainer #formFooter #sugestionsFooter {
+  margin-bottom: 1rem;
+}
+footer #footerContainer #formFooter #sugestionsFooter h3 {
+  font-size: var(--mediumFontSize);
+  margin-bottom: 5px;
+  color: var(--titleColorLight);
+}
+footer #footerContainer #formFooter #sugestionsFooter p {
+  font-size: var(--smallFontSize);
+}
+footer #footerContainer #formFooter input[type="email"] {
+  width: 100%;
+  margin: 3px auto 10px auto;
+}
+footer #footerContainer #formFooter input[type="submit"] {
+  margin: 10px auto 10px auto;
+  width: 100%;
+} /*# sourceMappingURL=style.css.map */
