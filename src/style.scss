@@ -30,24 +30,24 @@
   background-color: var(--titleColorLight);
 }
 
-// .primaryText{
-//   color: var(--titleColorLight);
-// }
+ .primaryText{
+  color: var(--titleColorLight);
+ }
 
 //Decoração
-main {
+ #bottomPlace {
 
-  background-image: url(../imagens/vetorInferior1.png), url(../imagens/decoracaoTerra.png);
-  background-repeat: no-repeat, no-repeat;
-  background-size: 150px, 150px;
-  background-position: right -100px, left 250px;
+   background-image: url(../imagens/vetorInferior1.png), url(../imagens/decoracaoTerra.png);
+   background-repeat: no-repeat, no-repeat;
+   background-size: 150px, 150px;
+   background-position: right -100px, left 250px;
 
   img{
-    margin-bottom: -10px;
-    width: 100%;
+   margin-bottom: -10px;
+   width: 100%;
 
-  }
-}
+   }
+ }
 
 // Estilos dos cards com instruções
 
