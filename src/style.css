@@ -2,126 +2,247 @@
 
 /* HEADER CSS */
 .wrapper {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .wrapper img {
+    width: 180px;
+    margin-left: 60px;
+  }
+  
+  .wrapper .wrapper-navbar {
+    display: flex;
+    flex-direction: row;
+    margin-right: 50px;
+    list-style: none;
+    font-family: Roboto;
+    color: #4a4a4a;
+    font-size: 18px;
+  }
+  
+  .wrapper .wrapper-navbar .wrapper-button-active {
+    background-color: #fdc886;
+    padding: 8px;
+    border-radius: 5px;
+  }
+  
+  .wrapper .wrapper-navbar .wrapper-li {
+    margin-left: 30px;
+    margin-top: 8px;
+  }
+  
+  .wrapper .wrapper-navbar .wrapper-button-active:hover {
+    color: black;
+  }
+  
+  .wrapper .wrapper-navbar .wrapper-li:hover {
+    background: white;
+    color: #fdc886;
+  }
+  
+  /* CONTENT CSS */
+  .container {
+    display: flex;
+    flex-direction: row;
+    margin-top: 0px;
+  }
+  
+  .container .container-image {
+    display: flex;
+    flex-direction: column;
+    width: 55%;
+    margin-left: -32px;
+  }
+  
+  .container .container-image h1 {
+    text-align: center;
+    font-family: Poppins;
+    font-weight: Medium;
+    font-size: 36px;
+    color: #4a4a4a;
+    margin-bottom: -30px;
+  }
+  
+  .container .container-card {
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+    margin: 100px 70px 50px 250px;
+    padding: 20px;
+    border: 1px solid #4a4a4a;
+    border-radius: 30px;
+    text-align: center;
+  }
+  
+  .container .container-card h1 {
+    font-family: Poppins;
+    font-weight: Medium;
+    color: #4a4a4a;
+    font-size: 25px;
+    margin-bottom: 40px;
+  }
+  
+  .container .container-card .container-content {
+    display: flex;
+    flex-direction: column;
+    font-family: Roboto;
+    font-weight: Medium;
+    font-size: 18px;
+    color: #4a4a4a;
+  }
+  
+  input[type="text"],
+  [type="password"] {
+    border: 1px solid #4a4a4a;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  .container .container-card .container-content button {
+    font-family: Roboto;
+    font-weight: Medium;
+    font-size: 15px;
+    font-family: Roboto;
+    font-weight: Bold;
+    font-size: 15px;
+    background: #fdc886;
+    color: #4a4a4a;
+    border: none;
+    border-radius: 8px;
+    margin-top: 20px;
+  }
+  
+  .container .container-card .container-content button:hover {
+    color: black;
+  }
+  
+  /* UTILS CLASSNAMES */
+  .margin-flexbox {
+    margin: 20px;
+  }
+
+  /* Inicio parte central homepage */
+body{ 
+  margin: 0%;
+  padding: 0%;
 }
 
-.wrapper img {
-  width: 180px;
-  margin-left: 60px;
-}
-
-.wrapper .wrapper-navbar {
-  display: flex;
-  flex-direction: row;
-  margin-right: 50px;
-  list-style: none;
-  font-family: Roboto;
-  color: #4a4a4a;
-  font-size: 18px;
-}
-
-.wrapper .wrapper-navbar .wrapper-button-active {
-  background-color: #fdc886;
-  padding: 8px;
-  border-radius: 5px;
-}
-
-.wrapper .wrapper-navbar .wrapper-li {
-  margin-left: 30px;
-  margin-top: 8px;
-}
-
-.wrapper .wrapper-navbar .wrapper-button-active:hover {
-  color: black;
-}
-
-.wrapper .wrapper-navbar .wrapper-li:hover {
-  background: white;
-  color: #fdc886;
-}
-
-/* CONTENT CSS */
-.container {
-  display: flex;
-  flex-direction: row;
-  margin-top: 0px;
-}
-
-.container .container-image {
-  display: flex;
-  flex-direction: column;
-  width: 55%;
-  margin-left: -32px;
-}
-
-.container .container-image h1 {
+.container-superior{
+  position: relative;
+  bottom: 0em;
   text-align: center;
-  font-family: Poppins;
-  font-weight: Medium;
+  margin: 0 auto;
+}
+
+.parte-superior{
+  background-image: url(../img/VetorLateral1\ ParteSuperior.png);
+  background-repeat: no-repeat;
+  padding: 0px;
+  margin: 0px;
+  opacity: 60%;
+  background-size: 360px;
+  background-position: left 0px;
+}
+
+.texto-superior{
   font-size: 36px;
+  position: relative;
+  z-index: 1;
   color: #4a4a4a;
-  margin-bottom: -30px;
+  bottom: -5em;
+  font-family: "Poppins", sans-serif;
 }
 
-.container .container-card {
-  display: flex;
-  flex-direction: column;
-  width: 45%;
-  margin: 100px 70px 50px 250px;
-  padding: 20px;
-  border: 1px solid #4a4a4a;
-  border-radius: 30px;
+.container-superior .img-right{
+  opacity: 90%;
+  z-index: 0;
+  display: grid;
+  justify-content: right;
+}
+
+p{
   text-align: center;
+  font-family: sans-serif;
+  font-size: 15px;
+  word-spacing: 1px;
+  font-family: sans-serif;
 }
 
-.container .container-card h1 {
-  font-family: Poppins;
-  font-weight: Medium;
-  color: #4a4a4a;
-  font-size: 25px;
-  margin-bottom: 40px;
+.card{  /* alinhamento dos card */
+  display: flex;
+  position: relative;
+  bottom: 0em;
+  justify-content: space-around; 
+  height: 350px;  
+  padding: 0em;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-content: space-between;  
 }
 
-.container .container-card .container-content {
+.card-item{
   display: flex;
   flex-direction: column;
-  font-family: Roboto;
-  font-weight: Medium;
-  font-size: 18px;
-  color: #4a4a4a;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #cabdff;
+  width: 380px;
+  transition: 0.5s;
+  border-radius: 14px;
+  padding: 100px;  
 }
 
-input[type="text"],
-[type="password"] {
-  border: 1px solid #4a4a4a;
-  border-radius: 8px;
-  margin-bottom: 20px;
+.card-item img{
+  margin-bottom: 80px;
 }
 
-.container .container-card .container-content button {
-  font-family: Roboto;
-  font-weight: Medium;
-  font-size: 15px;
-  font-family: Roboto;
-  font-weight: Bold;
-  font-size: 15px;
-  background: #fdc886;
-  color: #4a4a4a;
-  border: none;
-  border-radius: 8px;
-  margin-top: 20px;
+.card-item:nth-child(2){
+  background-color: #B6A4FF;
+
 }
 
-.container .container-card .container-content button:hover {
-  color: black;
+.section .card-item:hover{
+  background-color: #8b73eb;
 }
 
-/* UTILS CLASSNAMES */
-.margin-flexbox {
-  margin: 20px;
+@media (max-width: 720px){
+  body, html{
+      width: 100%;
+      align-items: center;
+  }
+
+  .img-right{
+      display: none;
+  }
+
+  .card{
+      height: 70em;
+  }
 }
 
-/* FIM PARTE SUPERIOR /*
+@media (max-width: 414px){
+  body, html{
+      width: 100%;
+      align-items: center;
+  }
+
+  .card{
+      height: 70em;
+  }
+}
+
+@media (max-width: 320px){
+  body, html{
+      width: 100%;
+      align-items: center;
+  }
+
+  .card{
+      height: 70em;
+  }
+}
+/* Fim parte central homepage */
