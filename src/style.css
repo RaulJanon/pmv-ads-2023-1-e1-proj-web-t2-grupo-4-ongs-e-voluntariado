@@ -9,14 +9,14 @@
 }
 
 .wrapper img {
-  width: 180px;
-  margin-left: 60px;
+  width: 13%;
+  margin-left: 4em;
 }
 
 .wrapper .wrapper-navbar {
   display: flex;
   flex-direction: row;
-  margin-right: 50px;
+  margin-right: 4em;
   list-style: none;
   font-family: Roboto;
   color: #4a4a4a;
@@ -25,12 +25,12 @@
 
 .wrapper .wrapper-navbar .wrapper-button-active {
   background-color: #fdc886;
-  padding: 8px;
+  padding: 0.5em;
   border-radius: 5px;
 }
 
 .wrapper .wrapper-navbar .wrapper-li {
-  margin-left: 30px;
+  margin-left: 2em;
   margin-top: 8px;
 }
 
@@ -47,14 +47,14 @@
 .container {
   display: flex;
   flex-direction: row;
-  margin-top: 0px;
+  margin-top: 0em;
 }
 
 .container .container-image {
   display: flex;
   flex-direction: column;
   width: 55%;
-  margin-left: -32px;
+  margin-left: -2em;
 }
 
 .container .container-image h1 {
@@ -63,15 +63,16 @@
   font-weight: Medium;
   font-size: 36px;
   color: #4a4a4a;
-  margin-bottom: -30px;
+  margin-bottom: -1em;
 }
 
 .container .container-card {
   display: flex;
   flex-direction: column;
   width: 45%;
-  margin: 100px 70px 50px 250px;
-  padding: 20px;
+  /*margin: 100px 70px 50px 250px;*/
+  margin: 6em 4em 10em 13em;
+  padding: 0.5em;
   border: 1px solid #4a4a4a;
   border-radius: 30px;
   text-align: center;
@@ -82,7 +83,7 @@
   font-weight: Medium;
   color: #4a4a4a;
   font-size: 25px;
-  margin-bottom: 40px;
+  margin-bottom: 2em;
 }
 
 .container .container-card .container-content {
@@ -98,7 +99,7 @@ input[type="text"],
 [type="password"] {
   border: 1px solid #4a4a4a;
   border-radius: 8px;
-  margin-bottom: 20px;
+  margin-bottom: 2em;
 }
 
 .container .container-card .container-content button {
@@ -112,7 +113,7 @@ input[type="text"],
   color: #4a4a4a;
   border: none;
   border-radius: 8px;
-  margin-top: 20px;
+  margin-top: 1.5em;
 }
 
 .container .container-card .container-content button:hover {
@@ -121,7 +122,5 @@ input[type="text"],
 
 /* UTILS CLASSNAMES */
 .margin-flexbox {
-  margin: 20px;
+  margin: 2em;
 }
-
-/* FIM PARTE SUPERIOR /*
