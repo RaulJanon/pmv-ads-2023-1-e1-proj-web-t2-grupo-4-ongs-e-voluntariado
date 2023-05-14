@@ -1,4 +1,5 @@
 /* HEADER CSS*/
+
 .wrapper {
   display: flex;
   flex-direction: row;
@@ -79,6 +80,7 @@
 /* MAIN CSS */
 
 /* CABECALHO */
+
 main {
   font-family: Poppins;
   color: #4a4a4a;
@@ -138,6 +140,7 @@ main {
 }
 
 /* CONTEUDO */
+
 .posts {
   margin-top: 0px;
   margin-left: 60px;
@@ -170,6 +173,7 @@ main {
 }
 
 /* FOOTER */
+
 footer {
   height: 20rem;
   border: 1px solid #4a4a4a;
