@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="dasborad.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <title>Dashboard</title>
+</head>
+    <body>
+        <!-- Toda parte á cima da foto de perfil. -->
+        <input type="checkbox" id="check">
+        <header>
+            <label for="check">
+                <i class="fa-solid fa-bars" id="sidebar-btn"></i>
+            </label>
+                <div class="left-area"> <!-- Segnifica que essa parte vai ficar na esquerda. -->
+                    <h3>Ponte<sp-an>.com</span></h3>
+                </div>
+                <div class="right-area"> <!-- Segnifica que essa parte vai ficar na direita. -->
+                    <a href="#" class="logout-btn">logout</a>
+                </div>
+                <div>
+                    <form>
+                        <input type="text" name="search" placeholder="Pesquisar...">
+                        <button type="submit"><i class="fas fa-search"></i></button>
+                    </form>
+                </div>
+        </header>
+        <!-- Fechamento da parte de cima da tela. -->
+                <div class="sidebar"><!-- Aqui se inicia a barra lateral junto com a foto de perfil. -->
+                <center>
+                    <img src="./docs/img/JoanaDrupe.png" class="foto-de-perfil" alt="#">
+                    <h4> Joana Drupe</h4>
+                </center>
+                    <a href="#"><i class="fas fa-desktop"></i><span>Dashboards</span></a>
+                    <a href="#"><i class="fas fa-id-badge"></i></i><span>Minhas Informações</span></a>
+                    <a href="#"><i class="fas fa-calendar-days"></i><span>Calendário</span></a>
+                    <a href="#"><i class="fas fa-user-group"></i><span>Amigos e Parceiros</span></a>
+                    <a href="#"><i class="fas fa-gear"></i><span>Configuração</span></a>
+                </div><!-- Fechamento da barra lateral inteira com a foto de perfil. -->
+                <div class="content">
+                    <img src="./docs/img/banner.png" class="banner-de-fundo" alt="#" width="100%" height="100%">
+                </div>
+    </body>
+</html>
