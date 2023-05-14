@@ -241,7 +241,6 @@ input[type="text"],
   position: relative;
   /* bottom: 0em; */
   text-align: center;
-  margin: 0 auto;
 }
 
 .parte-superior {
@@ -254,13 +253,14 @@ input[type="text"],
   background-position: left 0px;
 }
 
-.texto-superior {
+.texto-superior{
   font-size: 20px;
   position: relative;
   z-index: 1;
   color: #4a4a4a;
   bottom: -5em;
   font-family: "Poppins", sans-serif;
+  margin-top: 0px;
 }
 
 .container-superior .img-right {
@@ -283,7 +283,7 @@ p {
   margin-bottom: 150px;
   display: flex;
   position: relative;
-  bottom: 0em;
+  bottom: 2em;
   justify-content: space-around;
   height: 350px;
   padding: 0em;
