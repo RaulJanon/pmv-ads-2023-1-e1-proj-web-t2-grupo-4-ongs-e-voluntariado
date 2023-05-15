@@ -8,12 +8,12 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir:
 <table>
       <tr>
          <td>Caso de Teste</th>
-         <td> Verificar se os campos foram preenchidos e se usuário existe no sistema para realizar 0 login. </th>
+         <td>  Verificar se os campos de cadastro foram preenchidos e se a barra de pesquisa está funcionando </th>
     
    </tr>
  <tr>
       <td>Requisitos Associados</td>
-      <td>......</td>
+      <td>RF-001: atendem ao requisito funcional para pesquisa de novas ONGs</td>
  </tr>
   
  <tr>
